@@ -5,3 +5,4 @@ KTC Vendor Rating App
 
 ContractPlus
 [Contract Plus App] (./contractplus/de/contractplus.md)
+[a link](./contractplus/de/contractplus.md)
