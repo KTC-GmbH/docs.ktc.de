@@ -28,7 +28,7 @@
 - Nummernserie für Debitorenverträge
 - Nummernserie für Partnerverträge
 
-**Dimeensionen**
+**Dimensionen**
 - Dimension für Vertragsarten
 - Dimension für die Vertragsnummer (Werte werden automatisch erstellt)
 
