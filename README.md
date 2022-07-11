@@ -4,13 +4,13 @@
 
 [Vendor Rating App](./vendor-rating-app/de/vandor-rating-app.md)
 
-[Contract Plus App](https://github.com/KTC-GmbH/documentation/tree/main/ContractPlus/DE/ContractPlus.md)
+[Contract Plus App](./ContractPlus/DE/ContractPlus.md)
 
 ## English
 
 [Vendor Rating App](./vendor-rating-app/en/vandor-rating-app.md)
 
-[Contract Plus App](https://github.com/KTC-GmbH/documentation/tree/main/ContractPlus/EN/ContractPlus.md)
+[Contract Plus App](./ContractPlus/EN/ContractPlus.md)
 
 
 
