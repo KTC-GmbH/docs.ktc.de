@@ -20,3 +20,4 @@ KTC-Karlsruhe Technology Consulting GmbH
 Augartenstraße 1
 76137 Karlsruhe
 ```
+[Imprint](https://www.ktc.de/imprint)
