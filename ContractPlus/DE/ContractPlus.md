@@ -17,3 +17,21 @@
 
 ## Mehrwert 
 ![Image of Added Value DE](img/ContractPlus_AddedValue_DE.PNG)
+
+## Setup
+### Installation
+
+### Benötigte Systemdaten
+
+**Nummernserien**
+- Nummernserie für Kreditorenverträge
+- Nummernserie für Debitorenverträge
+- Nummernserie für Partnerverträge
+
+**Dimeensionen**
+- Dimension für Vertragsarten
+- Dimension für die Vertragsnummer (Werte werden automatisch erstellt)
+
+### Backend Konfiguration
+
+## Vertragskategorien
