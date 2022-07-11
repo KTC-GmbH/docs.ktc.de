@@ -14,3 +14,6 @@
 - Fügen Sie Dokumente und Notizen an einen Vertrag hinzu
 - Hinterlegen Sie Dimensionen, Bemerkungen und Suchbegriffe zu dem Vertrag.
 - Unterstützt werden die Sprachen: Deutsch, Englisch, Italienisch, Französisch, Niederländisch, Spanisch, Portugiesisch und Russisch.
+
+## Mehrwert 
+![Image of Added Value DE](D365BC_contractplus_addedValue_de)
