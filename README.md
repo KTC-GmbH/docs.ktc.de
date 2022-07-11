@@ -2,17 +2,14 @@
 
 ## German
 
-[Vendor Rating App](./vendor-rating-app/de/vandor-rating-app.md)
-
-[Messanger App](./messenger-app/de/meddenger-app.md)
-
-[Contract Plus App](./ContractPlus/DE/ContractPlus.md)
+- [Vendor Rating App](./vendor-rating-app/de/vandor-rating-app.md)
+- [Messanger App](./messenger-app/de/meddenger-app.md)
+- [Contract Plus App](./ContractPlus/DE/ContractPlus.md)
 
 ## English
 
-[Vendor Rating App](./vendor-rating-app/en/vandor-rating-app.md)
-
-[Contract Plus App](./ContractPlus/EN/ContractPlus.md)
+- [Vendor Rating App](./vendor-rating-app/en/vandor-rating-app.md)
+- [Contract Plus App](./ContractPlus/EN/ContractPlus.md)
 
 
 
