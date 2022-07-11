@@ -1,10 +1,12 @@
 # KTC Documentation
 
-KTC Vendor Rating App
-[Vendor Rating App] (./vendor-rating-app/vandor-rating-app.md)
+German
+[Vendor Rating App](./vendor-rating-app/de/vandor-rating-app.md)
+[Contract Plus App](./contractplus/de/contractplus.md)
 
-ContractPlus
-[Contract Plus App] (./contractplus/de/contractplus.md)
-[a link](./contractplus/de/contractplus.md)
+English
+[Vendor Rating App](./vendor-rating-app/en/vandor-rating-app.md)
+[Contract Plus App](./contractplus/en/contractplus.md)
 
-Ende
+
+
