@@ -4,6 +4,8 @@
 
 [Vendor Rating App](./vendor-rating-app/de/vandor-rating-app.md)
 
+[Messanger App](./messenger-app/de/meddenger-app.md)
+
 [Contract Plus App](./ContractPlus/DE/ContractPlus.md)
 
 ## English
