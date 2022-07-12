@@ -2,9 +2,11 @@
 
 ## German
 
-- [Vendor Rating App](./vendor-rating-app/de/vandor-rating-app.md)
-- [Messanger App](./messenger-app/de/meddenger-app.md)
-- [Contract Plus App](./ContractPlus/DE/ContractPlus.md)
+- [KTC License Managaement App](./ktc-license-management/de/ktc-license-management.md)
+- [Contract Plus](./ContractPlus/DE/ContractPlus.md)
+- [Vendor Rating](./vendor-rating-app/de/vandor-rating.md)
+- [Messanger App](./messenger-app/de/messenger-app.md)
+- [Smart Calendar](./smart-calendar/de/smart-calendar.md)
 
 ## English
 
