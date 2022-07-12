@@ -5,10 +5,10 @@
 
 
 ## Installation Wizzard
-![Image of Added Value DE](files/LizWizard-Screen_01.PNG)
-![Image of Added Value DE](files/LizWizard-Screen_02.PNG)
-![Image of Added Value DE](files/LizWizard-Screen_03.PNG)
-![Image of Added Value DE](files/LizWizard-Screen_04.PNG)
+![Image of Added Value DE](files/LizWizard-Screen_01-DE.PNG)
+![Image of Added Value DE](files/LizWizard-Screen_02-DE.PNG)
+![Image of Added Value DE](files/LizWizard-Screen_03-DE.PNG)
+![Image of Added Value DE](files/LizWizard-Screen_04-DE.PNG)
 
 ## Setup
 ### Installation
