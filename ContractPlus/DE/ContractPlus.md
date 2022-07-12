@@ -16,7 +16,7 @@
 - Unterstützt werden die Sprachen: Deutsch, Englisch, Italienisch, Französisch, Niederländisch, Spanisch, Portugiesisch und Russisch.
 
 ## Mehrwert 
-![Image of Added Value DE](img/ContractPlus_AddedValue_DE.PNG)
+![Image of Added Value DE](files/ContractPlus_AddedValue_DE.PNG)
 
 ## Setup
 ### Installation
