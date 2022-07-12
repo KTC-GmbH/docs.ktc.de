@@ -16,4 +16,22 @@
 - Unterstützt werden die Sprachen: Deutsch, Englisch, Italienisch, Französisch, Niederländisch, Spanisch, Portugiesisch und Russisch.
 
 ## Mehrwert 
-![Image of Added Value DE](D365BC_contractplus_addedValue_de)
+![Image of Added Value DE](img/ContractPlus_AddedValue_DE.PNG)
+
+## Setup
+### Installation
+
+### Benötigte Systemdaten
+
+**Nummernserien**
+- Nummernserie für Kreditorenverträge
+- Nummernserie für Debitorenverträge
+- Nummernserie für Partnerverträge
+
+**Dimensionen**
+- Dimension für Vertragsarten
+- Dimension für die Vertragsnummer (Werte werden automatisch erstellt)
+
+### Backend Konfiguration
+
+## Vertragskategorien
