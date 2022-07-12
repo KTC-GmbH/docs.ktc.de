@@ -4,7 +4,7 @@
 **Verwalten Sie Ihre KTC Lizenzen an einem zentralen Ort**
 
 
-## Installationswizzard
+## Installation Wizzard
 ![Image of Added Value DE](files/LizWizard-Screen_01.PNG)
 ![Image of Added Value DE](files/LizWizard-Screen_02.PNG)
 ![Image of Added Value DE](files/LizWizard-Screen_03.PNG)
