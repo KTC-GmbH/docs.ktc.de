@@ -2,18 +2,19 @@
 
 ## German
 
-- [KTC License Managaement App](./ktc-license-management/DE/ktc-license-management.md)
-- [Contract Plus](./ContractPlus/DE/ContractPlus.md)
-- [Vendor Rating](./vendor-rating-app/DE/vandor-rating.md)
-- [Messanger App](./messenger-app/DE/messenger-app.md)
+- [KTC License Management App](./ktc-license-management-DE/DE/ktc-license-management.md)
+- [Contract Plus App](./ContractPlus/DE/ContractPlus_DE.md)
+- [Vendor Rating App](./vendor-rating-app/DE/vandor-rating_DE.md)
+- [Messenger App](./messenger-app/DE/messenger-app.md)
 - [Smart Calendar](./smart-calendar/DE/smart-calendar.md)
+- [SharePoint Plus](..\SharePointPlus\DE\SharePointPlus_DE.md)
 
 ## English
-- [KTC License Managaement App](./ktc-license-management/EN/ktc-license-management.md)
+
+- [KTC License Managaement App](./ktc-license-management-EN/EN/ktc-license-management.md)
+- [Contract Plus App](./ContractPlus/DE/ContractPlus_EN.md)
 - [Vendor Rating App](./vendor-rating-app/EN/vandor-rating-app.md)
-- [Contract Plus App](./ContractPlus/EN/ContractPlus.md)
-
-
+- [SharePoint Plus](..\SharePointPlus\EN\SharePointPlus_EN.md)
 
 ## Contact
 
@@ -22,4 +23,5 @@ KTC-Karlsruhe Technology Consulting GmbH
 Augartenstraße 1
 76137 Karlsruhe
 ```
-[Imprint](https://www.ktc.de/imprint)
+
+[Imprint](https://www.ktc.de/)
