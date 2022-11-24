@@ -5,8 +5,8 @@
 - [KTC License Management App](ktc-license-management/DE/ktc-license-management-DE.md)
 - [ContractPlus App](ContractPlus/DE/ContractPlus_DE.md)
 - [Vendor Rating App](vendor-rating/DE/vendor-rating_DE.md)
-- [Messenger App](messenger-app/DE/messenger-app.md)
-- [Smart Calendar](smart-calendar/DE/smart-calendar.md)
+<!--- [Messenger App](messenger-app/DE/messenger-app.md)-->
+<!--- [Smart Calendar](smart-calendar/DE/smart-calendar.md)-->
 - [SharePointPlus](SharePointPlus/DE/SharePointPlus_DE.md)
 
 ## English
