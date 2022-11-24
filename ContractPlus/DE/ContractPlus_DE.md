@@ -38,18 +38,18 @@ Bitte beachten Sie, dass ContractPlus erst ab Version 21.0 verfügbar ist. Dies 
 
 hr Unternehmensadministrator muss Ihnen in Business Central folgende Berechtigungen freigeben, um eine KTC-Extension in Ihrer Umgebung zu installieren: D365 EXTENSION MGT oder EXT MGT. -  ADMIN.
 
-![Image MS D365 BC – Berechtigungen](../files/ctpAbb2.PNG) Abb.2 MS D365 BC – Berechtigungen
+![Image MS D365 BC – Berechtigungen](../files/ctpAbb2.png) Abb.2 MS D365 BC – Berechtigungen
 
 ### Installation über den Marketplace
 
 Die KTC ContractPlus App kann direkt in Business Central über den Marketplace für Erweiterungen installiert werden.
 Geben Sie in der Suche Marketplace ein und wählen Sie den Marketplace für Erweiterungen aus.
 
-![Image Microsoft Marktplace für Erweiterungen (AppSource)](../files/ctpAbb3.PNG) Abb.3 Microsoft Marktplace für Erweiterungen (AppSource)
+![Image Microsoft Marktplace für Erweiterungen (AppSource)](../files/ctpAbb3.png) Abb.3 Microsoft Marktplace für Erweiterungen (AppSource)
 
 In der Suche des Marketplace geben Sie ContractPlus ein und wählen die unten angezeigte App aus.
 
-![Image Marketplace ContractPlus](../files/ctpAbb4.PNG) Abb.4 Marketplace ContractPlus
+![Image Marketplace ContractPlus](../files/ctpAbb4.png) Abb.4 Marketplace ContractPlus
 
 Mit einem Klick auf "Free trial" gelangen Sie in die Erweiterungsinstallation.
 
@@ -57,12 +57,12 @@ Mit einem Klick auf "Free trial" gelangen Sie in die Erweiterungsinstallation.
 
 Sie können die App auch direkt aus dem Microsoft AppSource installieren. Melden Sie sich hierfür im MS App Source an und suchen Sie nach der Erweiterung ContractPlus.
 
-![Image ContractPlus direkt im MS AppSource, Aufruf über den Browser](../files/ctpAbb4.PNG) Abb.5 ContractPlus direkt im MS AppSource, Aufruf über den Browser
+![Image ContractPlus direkt im MS AppSource, Aufruf über den Browser](../files/ctpAbb4.png) Abb.5 ContractPlus direkt im MS AppSource, Aufruf über den Browser
 
 Auch in dieser Übersicht können Sie die Anwendung über den Button „Free trial“ zu Ihrer Business Central Umgebung hinzufügen.
 Klicken Sie auf den "Free trail-Button, dann werden Sie an Ihr Dynamics 365 Business Central weitergeleitet. Es erscheint Ihnen ein Fenster, in dem Sie auswählen können, auf welcher Umgebung Sie die Erweiterung installieren wollen.
 
-![Image Dynamics 365 Business Central – Auswahl der Umgebung](../files/ctpAbb6.PNG) Abb.6 Dynamics 365 Business Central – Auswahl der Umgebung
+![Image Dynamics 365 Business Central – Auswahl der Umgebung](../files/ctpAbb6.png) Abb.6 Dynamics 365 Business Central – Auswahl der Umgebung
 
 Mit dem Klick auf Installieren werden Sie in die Erweiterungsinstallation weitergeleitet.
 
@@ -72,7 +72,7 @@ Die Erweiterung ContractPlus ist nur mit Hilfe einer Lizenzierung nutzbar. Hierf
 In der Erweiterungsinstallation können Sie aus den verschiedenen Sprachen der ContractPlus Erweiterung auswählen. Die unterstützen Sprachen sind: Deutsch, Englisch, Italienisch, Französisch, Niederländisch, Spanisch, Polnisch und Portugiesisch.
 Falls Ihr BC in einer Sprache eingestellt ist, welche nicht von ContractPlus unterstützt wird, wird Ihnen die Erweiterung standardisiert auf Englisch installiert.
 
-![Image Erweiterungsinstallation: Sprachauswahl und Installation](../files/ctpAbb7.PNG) Abb.7 Erweiterungsinstallation: Sprachauswahl und Installation
+![Image Erweiterungsinstallation: Sprachauswahl und Installation](../files/ctpAbb7.png) Abb.7 Erweiterungsinstallation: Sprachauswahl und Installation
 
 Mit einem Klick auf Installieren wird Ihnen die Anwendung in Ihrer Umgebung installiert. Die Installation der App kann einige Minuten dauern. Sobald die Extension erfolgreich installiert wurde, erscheint Ihnen eine Meldung. Mit OK werden Sie zurück zum Startbildschirm geleitet.
 
@@ -81,11 +81,11 @@ Mit einem Klick auf Installieren wird Ihnen die Anwendung in Ihrer Umgebung inst
 Um die erfolgreiche Installation oder den Installationsfortschritt von Erweiterungen zu sehen, geben Sie in der Suche Erweiterungsverwaltung ein und gehen Sie auf den entsprechenden Menüpunkt.
 Über den Punkt Manage können Sie nun in die Ansicht des Installationsstatus kommen.
 
-![Image : Prüfen des Installationsstatus](../files/ctpAbb8.PNG) Abb.8 Prüfen des Installationsstatus
+![Image : Prüfen des Installationsstatus](../files/ctpAbb8.png) Abb.8 Prüfen des Installationsstatus
 
 Eine Erweiterung ist vollständig installiert und betriebsbereit, wenn der Status abgeschlossen ist.
 
-![Image : Installationsstatus: abgeschlossen](../files/ctpAbb9.PNG) Abb.9 Installationsstatus: abgeschlossen
+![Image : Installationsstatus: abgeschlossen](../files/ctpAbb9.png) Abb.9 Installationsstatus: abgeschlossen
 
 ### Aufrufen der KTC Lizenz Management App
 
@@ -96,27 +96,27 @@ Sollten Sie die KTC Lizenz Management App noch nicht besitzen, wird diese zusamm
 
 Zum Öffnen der Lizenzverwaltung geben Sie in der Suche „KTC Liz“ ein und wählen Sie die App KTC Lizenz Management aus.
 
-![Image : Aufrufen der KTC Lizenz Management App](../files/ctpAbb10.PNG) Abb.10 Aufrufen der KTC Lizenz Management App
+![Image : Aufrufen der KTC Lizenz Management App](../files/ctpAbb10.png) Abb.10 Aufrufen der KTC Lizenz Management App
 
 ### Initiales Einrichten der Lizenz Management App (Neukunde)
 
 Um ContractPlus als Neukunde unserer Programme zu nutzen, öffnen Sie bitte zuerst das KTC Lizenz Management. Das Programm wird automatisch mitinstalliert, sobald sie ContractPlus aus dem AppSource bezogen haben. Geben Sie hierfür Lizenz in die Suchmaske ein und wählen das Verwaltungsprogramm KTC Lizenz Management aus.
 
-![Image:Aufrufen der Lizenzverwaltung](../files/ctpAbb11.PNG) Abb.11 Aufrufen der Lizenzverwaltung
+![Image:Aufrufen der Lizenzverwaltung](../files/ctpAbb11.png) Abb.11 Aufrufen der Lizenzverwaltung
 
 Beim initialen Aufruf der KTC Lizenz Management App ist Ihre Tenant ID noch nicht gesetzt. Diese wird im nächsten Schritt automatisch ermittelt und gesetzt.
 
-![Image : : Einrichten der KTC Lizenz Management Erweiterung](../files/ctpAbb12.PNG) Abb.12  Einrichten der KTC Lizenz Management Erweiterung
+![Image : : Einrichten der KTC Lizenz Management Erweiterung](../files/ctpAbb12.png) Abb.12  Einrichten der KTC Lizenz Management Erweiterung
 
 Starten Sie den Einrichtungsassistent und geben bitte Ihren Firmennamen und Ihre E-Mail-Adresse ein. Alle Erweiterungen der KTC werden diesem Firmennamen und dieser E-Mail-Adresse zugeordnet.
 <span style="color:blue">Achtung:</span> Sie benötigen diese E-Mail-Adresse zur Wiederherstellung der Zugangsdaten. Zu Abrechnungszwecken kann später eine weitere E-Mail-Adresse hinterlegt werden.
 Bitte lesen Sie den Lizenzvertrag und bestätigen Sie, dass sie diesen gelesen haben und akzeptieren.
 
-![Image : Der KTC Lizenz Einrichtungs-Assistent](../files/ctpAbb13.PNG) Abb.13 Der KTC Lizenz Einrichtungs-Assistent
+![Image : Der KTC Lizenz Einrichtungs-Assistent](../files/ctpAbb13.png) Abb.13 Der KTC Lizenz Einrichtungs-Assistent
 
 Danach bestätigen Sie Ihre Eingabe mit Weiter. Die KTC generiert Ihnen nun automatisiert ein Passwort, mit dem Sie sich in der Lizenzverwaltung anmelden können.
 
-![Image : : KTC Lizenz Management Passwort (Lizenzschlüssel) ](../files/ctpAbb14.PNG) Abb.14 KTC Lizenz Management Passwort (Lizenzschlüssel)
+![Image : : KTC Lizenz Management Passwort (Lizenzschlüssel) ](../files/ctpAbb14.png) Abb.14 KTC Lizenz Management Passwort (Lizenzschlüssel)
 
 Mit einem Klick auf OK werden die Informationen hinterlegt. Klicken Sie im nächsten Fenster auf fertig, um die Einrichtung fertigzustellen. Die Erweiterung ContractPlus erscheint nun automatisch in der Übersicht der über KTC lizenzierten Anwendungen auf.
 <span style="color:blue">Hinweis:</span> Aus Sicherheitsgründen speichern wir Ihr Passwort nicht. Bitte speichern Sie sich Ihr Passwort gesondert ab. Sie benötigen Ihr Passwort, wenn Sie den Lizenz Manager in weiteren Environments wie etwa Sandboxes installieren möchten (z.B. Mehrfachinstallation in unterschiedlichen Tenants mit der gleichen Tenant-ID). Vergessene Passwörter werden systemseitig immer durch neue Passwörter ersetzt.
@@ -126,16 +126,16 @@ Mit einem Klick auf OK werden die Informationen hinterlegt. Klicken Sie im näch
 Da Sie bereits eine KTC-Extension installiert haben, sind Sie bereits für die KTC Lizenz Management App registriert.  Dementsprechend besitzen Sie bereits einen Zugang.
 Um die Installation der ContractPlus Extension abzuschließen, öffnen Sie den Einrichtungsassistenten der KTC Lizenzmanagement App (z.B. über die Suche -> KTC Lizenz Management).
 
-![Image : Einrichten der KTC Lizenz Management Erweiterung ](../files/ctpAbb15.PNG) Abb.15 Einrichten der KTC Lizenz Management Erweiterung
+![Image : Einrichten der KTC Lizenz Management Erweiterung ](../files/ctpAbb15.png) Abb.15 Einrichten der KTC Lizenz Management Erweiterung
 
 Nach öffnen des Einrichtungsassistenten geben Sie bitte Ihre bereits vorhandenen Zugangsdaten ein, damit Sie die neue Extension auf Ihren Tenant installieren können. Ihre Tenant-ID wird automatisch für Sie ausgefüllt, Sie müssen also nur noch Ihre E-Mail und das Passwort ausfüllen. Sollten Sie Ihr Passwort vergessen haben, können Sie über „Passwort vergessen?“ ein neues anfordern (vgl. Passwort der KTC-Lizenz-Management App ).
 
-![Image : wiederholtes Einrichten der KTC Lizenz Management App](../files/ctpAbb16.PNG) Abb.16 wiederholtes Einrichten der KTC Lizenz Management AppErweiterung
+![Image : wiederholtes Einrichten der KTC Lizenz Management App](../files/ctpAbb16.png) Abb.16 wiederholtes Einrichten der KTC Lizenz Management AppErweiterung
 
 Bitte gehen Sie anschließend auf Weiter. Die Einrichtung der KTC Lizenz Management App ist nun abgeschlossen. Es werden automatisch alle gültigen und verfügbaren KTC-Lizenzen vom KTC-Lizenzserver importiert.
 Die ContractPlus App ist nun fertig installiert und erscheint in Ihrer Lizenzübersicht.
 
-![Image : Lizenzübersicht](../files/ctpAbb17.PNG) Abb.17 Lizenzübersicht
+![Image : Lizenzübersicht](../files/ctpAbb17.png) Abb.17 Lizenzübersicht
 
 Die Einrichtung der KTC Lizenz Management App ist nun abgeschlossen. Sie können die ContractPlus App nun nutzen.
 
@@ -143,18 +143,18 @@ Die Einrichtung der KTC Lizenz Management App ist nun abgeschlossen. Sie können
 
 Über die Funktion Passwort vergessen? können Sie sich ein neues Passwort (= Lizenzschlüssel) generieren lassen. Es wird ein neuer Tab geöffnet, in dem Sie die E-Mail-Adresse, die mit der Lizenz verlinkt ist, eingeben und auf "Absenden" klicken.
 
-![Image : zurücksetzen des Passwortes (Lizenzschlüssel) ](../files/ctpAbb18.PNG) Abb.18 zurücksetzen des Passwortes (Lizenzschlüssel)
+![Image : zurücksetzen des Passwortes (Lizenzschlüssel) ](../files/ctpAbb18.png) Abb.18 zurücksetzen des Passwortes (Lizenzschlüssel)
 
 An diese E-Mail wird ein Link versendet. Klicken Sie auf den Link, um das neue Passwort zu erhalten. Bitte speichern Sie sich dieses gesondert ab. Das alte Passwort verliert hiermit seine Gültigkeit.
 
-![Image : Neues Passwort (Lizenzschlüssel) erhalten ](../files/ctpAbb19.PNG) Abb.19 Neues Passwort (Lizenzschlüssel) erhalten
+![Image : Neues Passwort (Lizenzschlüssel) erhalten ](../files/ctpAbb19.png) Abb.19 Neues Passwort (Lizenzschlüssel) erhalten
 
 ### Verwaltung der KTC Lizenzen
 
 Möchten Sie den Status Ihrer Lizenzen überprüfen, öffnen Sie die KTC Lizenz Management App und wählen die zu prüfende Anwendung aus (1) und klicken Sie auf Aktualisieren (2)
 In der Übersicht sehen Sie ob die Lizenz Gültig ist, wenn Sie detaillierte Informationen benötigen, finden sie weitere Informationenunter Verwalten.
 
-![Image : Manuelles kontrollieren der installierten Lizenzen ](../files/ctpAbb20.PNG) Abb.20 Manuelles kontrollieren der installierten Lizenzen
+![Image : Manuelles kontrollieren der installierten Lizenzen ](../files/ctpAbb20.png) Abb.20 Manuelles kontrollieren der installierten Lizenzen
 
 Wenn Sie die App nicht mehr benutzen möchten, können Sie in der Erweiterungsverwaltung die installierten Apps markieren und deinstallieren.
 
@@ -162,11 +162,11 @@ Wenn Sie die App nicht mehr benutzen möchten, können Sie in der Erweiterungsve
 
 Die Anwendung wird über das Microsoft Dynamics 365 Business Central Admin Center aktualisiert. Die KTC Lizenz Management App zeigt Ihnen zusätzlich an, ob neue Versionen der KTC-Erweiterungen vorliegen.
 
-![Image : Das Microsoft Dynamics 365 Business Central Admin Portal öffnen](../files/ctpAbb21.PNG) Abb.21 Das Microsoft Dynamics 365 Business Central Admin Portal öffnen
+![Image : Das Microsoft Dynamics 365 Business Central Admin Portal öffnen](../files/ctpAbb21.png) Abb.21 Das Microsoft Dynamics 365 Business Central Admin Portal öffnen
 
 Um Ihre App-Übersicht zu öffnen, gehen Sie über Environments  manage apps auf eine Liste der installierten Anwendungen. In dieser Liste werden Ihnen unter anderem die installierte Version und die Information, ob „Ihre“ Version auch die aktuelle ist (vgl. Abbildung 21).
 
-![Image : Auswahl der Umgebung im Dynamics 365 Business Central Admin Center](../files/ctpAbb22.PNG) Abb.22 Auswahl der Umgebung im Dynamics 365 Business Central Admin Center
+![Image : Auswahl der Umgebung im Dynamics 365 Business Central Admin Center](../files/ctpAbb22.png) Abb.22 Auswahl der Umgebung im Dynamics 365 Business Central Admin Center
 
 Falls nötig, können Sie hier unsere Anwendung auf den neuesten Stand updaten. Dazu müssen Sie zunächst die Erweiterung auswählen, die Sie updaten möchten.
 Gehen Sie hierfür auf Apps -> Manage Apps -> Update. Die Anwendungen KTC Lizenz Management und ContractPlus werden jetzt auf den neuesten Stand gebracht. Sobald die Aktualisierung abgeschlossen ist, können Sie das Admin Center verlassen und mit den Anwendungen in Ihrer Business Central-Umgebung weiterarbeiten.
@@ -175,7 +175,7 @@ Gehen Sie hierfür auf Apps -> Manage Apps -> Update. Die Anwendungen KTC Lizenz
 
 Geben Sie in der Suche der Business Central Aktivitätenübersicht „Erweiterung“ ein und wählen Sie die Erweiterungsverwaltung aus.
 
-![Image : Aufrufen der Erweiterungsverwaltung](../files/ctpAbb23.PNG) Abb.23 Aufrufen der Erweiterungsverwaltung
+![Image : Aufrufen der Erweiterungsverwaltung](../files/ctpAbb23.png) Abb.23 Aufrufen der Erweiterungsverwaltung
 
 Markieren Sie die KTC Licence Management App und wählen Sie Verwalten -> deinstallieren aus. Alternativ können Sie auch auf das Ja klicken, das in der Erweiterungsübersicht vor der Anwendung KTC Licence Management steht. Wählen Sie im nächsten Fenster aus, ob Sie die Daten, die in der Erweiterung angelegt wurden, auch gelöscht werden sollen, und bestätigen Sie die Installation mit Deinstallieren. Die Anwendung wird jetzt aus Ihrem System entfernt; alle Daten dieser Anwendung werden gelöscht.
 
@@ -198,11 +198,11 @@ Wichtig: Um die Einrichtungsseite der ContractPlus App aufrufen zu können, ben�
 
 Geben Sie ContractPlus in die Suchleiste ein und wählen Sie die ContractPlus Einrichtung aus, um die Einrichtung durchzuführen.
 
-![Image : ContractPlus-Einrichtung](../files/ctpAbb24.PNG) Abb.24 ContractPlus-Einrichtung
+![Image : ContractPlus-Einrichtung](../files/ctpAbb24.png) Abb.24 ContractPlus-Einrichtung
 
 n der Verwaltung von ContractPlus können Sie die Anwendung im aktuellen Mandanten aktivieren oder deaktivieren. Somit kann individuell definiert werden, welche Mandanten mit der Erweiterung ContractPlus arbeiten können.
 
-![Image : ContractPlus aktivieren](../files/ctpAbb25.PNG) Abb.25 ContractPlus aktivieren
+![Image : ContractPlus aktivieren](../files/ctpAbb25.png) Abb.25 ContractPlus aktivieren
 
 Ohne die Aktivierung des Buttons ist die Nutzung von ContractPlus im ausgewählten Mandanten nicht möglich. Nach betätigen des Buttons ContractPlus Aktivieren, wird das Fenster automatisch geschlossen. Für die weitere Einrichtung müssen Sie erneut über die Suche die ContractPlus Einrichtung aufrufen.
 
@@ -212,9 +212,9 @@ Mit Aktivieren der App wird es notwendig, im Unterpunkt Einrichtung einige erste
 
 <span style="color:blue">Achtung:</span> Die Nummernserien müssen sich unterscheiden, da sonst verschiedene Vertragsarten in die gleiche Serie eingeordnet werden. Das kann zu fehlerhaften Auswertungen führen.
 
-![Image : Einrichten der Nummernserien](../files/ctpAbb26.PNG) Abb.26 Einrichten der Nummernserien
+![Image : Einrichten der Nummernserien](../files/ctpAbb26.png) Abb.26 Einrichten der Nummernserien
 
-![Image : Ist die Wiedervorlage Personen- oder Teamorientiert](../files/ctpAbb27.PNG) Abb.27 Ist die Wiedervorlage Personen- oder Teamorientiert
+![Image : Ist die Wiedervorlage Personen- oder Teamorientiert](../files/ctpAbb27.png) Abb.27 Ist die Wiedervorlage Personen- oder Teamorientiert
 
 Wenn Sie einen Vertrag erneut ansehen möchten, bevor Sie ihn verlängern oder fristgerecht kündigen, können Sie die Wiedervorlage nutzen. Bei der Erstellung des Vertrags legen Sie ein Datum fest, an dem der Vertrag erneut angezeigt und gegebenenfalls bearbeitet werden soll.
 In der Vertragskarte können Sie jedem Vertrag einen verantwortlichen Mitarbeitenden zuweisen, der sich darum kümmert. Wünschen Sie, dass die Erinnerung über den Vertrag an alle Mitarbeitenden des zuständigen Teams gesendet wird, so aktivieren Sie hier den Schalter Team Wiedervorlage. So werden alle Teammitglieder informiert.
@@ -224,7 +224,7 @@ In der Vertragskarte können Sie jedem Vertrag einen verantwortlichen Mitarbeite
 
 ContractPlus benutzt Dimensionen, um Verträge auf Postenebene zuzuordnen. Diese können Sie ebenfalls in der ContractPlus Einrichtung definieren.
 
-![Image : Einrichten der Dimensionen](../files/ctpAbb28.PNG) Abb.28 Einrichten der Dimensionen
+![Image : Einrichten der Dimensionen](../files/ctpAbb28.png) Abb.28 Einrichten der Dimensionen
 
 Die Dimension Vertragstyp dient zur Kategorisierung des Vertrages und wird automatisch über die Vertragskategorie gesetzt.
 Die Dimension Vertragsnummer ist eine automatische Dimension, die die Vertragsnummer auch in der Dimension speichert. Dies vereinfacht eine spätere Auswertung erheblich, da die Vertragsnummer auf Postenebene zur Verfügung steht. Beim Direktvertrag ist dies die Vertragsnummer ohne Debitor- oder Kreditorsuffix.
@@ -235,7 +235,7 @@ Die Kundennummer-Dimension wird einmal täglich automatisch aktualisiert. Hier w
 
 ### Einrichtung: Löschen archivierter Verträge
 
-![Image : Archivierte Verträge löschen](../files/ctpAbb29.PNG) Abb.29  Archivierte Verträge löschen
+![Image : Archivierte Verträge löschen](../files/ctpAbb29.png) Abb.29  Archivierte Verträge löschen
 
 Diese Funktion erlaubt das Löschen von archivierten Verträgen. Weiter können Sie definieren, welche Art von archivierten Verträgen gelöscht und welche beibehalten werden sollen. Insgesamt haben Sie hier drei verschiedene Optionen zur Auswahl: archivierte Kundenverträge, archivierte Lieferantenverträge und archivierte Partnerverträge. Von diesen Einstellungen sind nur Verträge betroffen, die auch diesen Vertragsarten entsprechen.
 
@@ -245,12 +245,12 @@ Diese Funktion erlaubt das Löschen von archivierten Verträgen. Weiter können 
 
 Der Warenfluss beinhaltet mehrere Schritte. In der Grafik können Sie erkennen, dass ContractPlus einen Großteil des kaufmännischen Prozesses für Sie übernimmt. So haben Sie Zeit für andere Aspekte Ihres Unternehmens.
 
-![Image : Verträge abrechnen](../files/ctpAbb30.PNG) Abb.30 Verträge abrechnen
+![Image : Verträge abrechnen](../files/ctpAbb30.png) Abb.30 Verträge abrechnen
 
 Verträge können auf verschiedenen Wegen abgerechnet werden. Zwei Wege, die von Business Central unterstützt werden, sind die Abrechnung über die Verkaufsrechnung und die Abrechnung über den Verkaufsauftrag. Mithilfe von ContractPlus können Sie Verträge auf beiden Wegen abrechnen.
 Alle in ContractPlus angelegte Verträge werden mit Vertragskategorien verknüpft, mit denen Sie festlegen können, auf welchem Wege der Vertrag abgerechnet werden soll.
 
-![Image : Vertragskategorien](../files/ctpAbb31.PNG) Abb.31 Vertragskategorien
+![Image : Vertragskategorien](../files/ctpAbb31.png) Abb.31 Vertragskategorien
 
 Die Vertragskategorien sind von Ihnen frei festlegbar. Bitte beachten Sie, dass in den Kategorien nur die automatische Abrechnung über den Auftrag aktiviert werden kann. Sollten Sie die Verträge lieber händisch abrechnen, lassen Sie das Kästchen deaktiviert.
 
@@ -268,24 +268,24 @@ Direktverträge werden über Waren oder Dienstleistungen geschlossen, die eingek
 Hiermit erstellen Sie die Dimensionswerte für Ihre Vertragskategorien. Basierend auf diesen Werten können sie später Ihre Verträge auswerten.
 Suchen Sie hierfür zunächst in der Suchmaske nach „Dimensionen“.
 
-![Image :Die Dimensionen verwalten](../files/ctpAbb32.PNG) Abb.32 Die Dimensionen verwalten
+![Image :Die Dimensionen verwalten](../files/ctpAbb32.png) Abb.32 Die Dimensionen verwalten
 
 Wählen Sie hier zunächst die Dimension aus, die Sie pflegen möchten. Anschließend wählen Sie über den Reiter Dimension die Taste Dimensionswerte aus.
 Dort können Sie dann bereits vorhandene Dimensionswerte bearbeiten oder einen neuen Wert mit einem zugehörigen Code sowie Namen über "+Neu" erstellen.
 
-![Image :die Dimension „Contract Type](../files/ctpAbb34.PNG) Abb.33 die Dimension „Contract Type
+![Image :die Dimension „Contract Type](../files/ctpAbb34.png) Abb.33 die Dimension „Contract Type
 
 ## Einrichten der Vertragskategorien
 
 <span style="color:blue">Wichtig:</span> Die ContractPlus App muss vollständig eingerichtet sein, um die Vertragskategorien verwalten zu können. Vergleichen Sie zur dazu bitte 5.3 Initiales Einrichten der Anwendung.
 
-![Image :Dimensionswerte für Vertragsarten](../files/ctpAbb35.PNG) Abb.34 Dimensionswerte für Vertragsarten
+![Image :Dimensionswerte für Vertragsarten](../files/ctpAbb35.png) Abb.34 Dimensionswerte für Vertragsarten
 
 Nachdem die Dimensionen für die Vertragsarten eingepflegt sind, können nun die Vertragskategorien angelegt werden und einer der definierten Dimensionen zugewiesen werden.
 Vertragsbeziehung definiert, in welcher Beziehung wir zu unserem Vertragspartner stehen. Diese sind dann natürlich von der Vertragsart abhängig. Jede Vertragsart unterhält eine eigene Vertragsbeziehung, von der die Konditionen der beteiligten Parteien abhängen. Diese Beziehungen lauten: Kunde, Lieferant, und Partner. Nummer und Beschreibung können Sie hier frei festlegen, während die Beziehung aus einer der vorgegebenen Möglichkeiten gewählt wird.
 Unter Dimensionswert wird die Dimension für diese Kategorie festgelegt. Alle Einträge dieser Kategorie werden nun automatisch der hinterlegten Dimension zugeordnet.
 
-![Image :Vertragskategorien verwalten](../files/ctpAbb36.PNG) Abb.35 Vertragskategorien verwalten
+![Image :Vertragskategorien verwalten](../files/ctpAbb36.png) Abb.35 Vertragskategorien verwalten
 
 Die automatische Abrechnung über einenVerkaufsauftrag ist ein Vorgabewert für diese Kategorie. Er bestimmt, ob der Eintrag zusammen mit dem Verkaufsauftrag abgerechnet wird. Diese Option können Sie hier aktivieren oder deaktivieren. Für jeden Eintrag der Liste ist eine individuelle Einstellung möglich.
 Die änderbare Vertragsabrechnung legt fest, ob in dieser Vertragskategorie die Mengen für jeden Abrechnungsintervall angepasst werden können. Dies ist sinnvoll, wenn Ihre Kunden (oder Sie selbst) nicht jeden Monat die gleiche Menge benötigen. Auch diese Option können Sie hier aktivieren oder deaktivieren, und für jeden Eintrag individuell festlegen.
@@ -294,7 +294,7 @@ Die änderbare Vertragsabrechnung legt fest, ob in dieser Vertragskategorie die 
 
 ### ContractPlus in den Aktivitäten
 
-![Image : ContractPlus „Kacheln“ im Rollencenter](../files/ctpAbb37.PNG) Abb.36 ContractPlus „Kacheln“ im Rollencenter
+![Image : ContractPlus „Kacheln“ im Rollencenter](../files/ctpAbb37.png) Abb.36 ContractPlus „Kacheln“ im Rollencenter
 
 Ihre Verträge sind hier auf insgesamt vier Kacheln verteilt. Die linke Kachel, Verträge, öffnet eine Übersicht aller Ihrer Verträge. Hier können Sie auch neue Verträge erstellen. Die zweite Kachel von links, „aktive Verträge Kunde und Lieferant“ zeigt Ihnen eine Übersicht über alle Direktverträge. Die dritte Kachel mit dem Titel „aktive Verträge Kreditoren“ verbirgt eine Auflistung aller Kundenverträge. Unter „Verträge auf Wiedervorlage“ finden Sie jene Verträge, die demnächst zur erneuten Ansicht fällig sind, sofern Sie diese zur Wiedervorlage markiert haben (vgl. Abrechnung und Wiedervorlage).
 
@@ -302,7 +302,7 @@ Ihre Verträge sind hier auf insgesamt vier Kacheln verteilt. Die linke Kachel, 
 
 Durch Klicken auf eine der Kacheln in den Aktivitäten kommen Sie zu einer Listenübersicht der hier hinterlegten Verträge. In dieser Ansicht können die Verträge über verschiedene Filter ein- oder ausgeblendet werden.
 
-![Image :Vertragsübersicht](../files/ctpAbb38.PNG) Abb.37 : Vertragsübersicht
+![Image :Vertragsübersicht](../files/ctpAbb38.png) Abb.37 : Vertragsübersicht
 
 In der Vertragsübersicht werden folgende Informationen angezeigt:
 
@@ -320,12 +320,12 @@ In der Vertragsübersicht werden folgende Informationen angezeigt:
 
 Sämtliche dieser Informationen werden aus der jeweiligen Vertragskarte ausgelesen und je nach Bearbeitungsstand angepasst.
 
-![Image :der Reiter „Verträge“ in der Übersicht](../files/ctpAbb39.PNG) Abb.38 : der Reiter „Verträge“ in der Übersicht
+![Image :der Reiter „Verträge“ in der Übersicht](../files/ctpAbb39.png) Abb.38 : der Reiter „Verträge“ in der Übersicht
 
 In der Vertragsübersicht finden Sie außerdem verschiedene Reiter, die weitere Funktionen von ContractPlus enthalten. So können Sie sich im Reiter Verträge Kunden-, Lieferanten- oder Partnerverträge anzeigen lassen, die mit dem in der Übersicht ausgewählten Vertrag verknüpft sind. Im Vertragsarchiv finden Sie bereits archivierte Verträge, und in den Kategorien können Sie eingespielte Kategorien anpassen, hinzufügen oder verändern.
 Im Reiter Prozess sind Ihnen Verwaltungsoptionen für den gewählten Vertrag hinterlegt. Beispielsweise können Sie den Vertrag verlängern, wenn die automatische Verlängerung nicht aktiviert wurde. Sie können Ihre Einträge archivieren, zur Wiedervorlage markieren oder archivierte Verträge wiederherstellen.
 
-![Image :der Reiter „Prozess“ in der Übersicht](../files/ctpAbb40.PNG) Abb.41 : der Reiter „Prozess“ in der Übersicht
+![Image :der Reiter „Prozess“ in der Übersicht](../files/ctpAbb40.png) Abb.41 : der Reiter „Prozess“ in der Übersicht
 
 ### Vertragskarte – einen neuen Vertrag anlegen
 
@@ -335,7 +335,7 @@ Grau hinterlegte Felder werden automatisch ausgefüllt; hier müssen Sie keine D
 
 ### Stammdaten
 
-![Image :Stammdaten des Neuvertrages](../files/ctpAbb41.PNG) Abb.42 : Stammdaten des Neuvertrages
+![Image :Stammdaten des Neuvertrages](../files/ctpAbb41.png) Abb.42 : Stammdaten des Neuvertrages
 
 Hier wählen Sie zunächst über "..." eine bereits vorher erstellte Vertragskategorie aus (vgl. Einrichten der Vertragskategorien). Die Vertragsbeziehung wird hier automatisch und passend zur ausgewählten Kategorie ausgefüllt.
 Auch die Vertragsnummer wird automatisch und fortlaufend ergänzt; sollten Sie aber eine spezielle Vertragsnummer wünschen, können Sie diese unter "..."  auswählen oder frei erstellen, indem Sie auf  "+Neu" klicken.
@@ -354,13 +354,13 @@ Sind Sie lediglich die mittelnde Stelle, können Sie hier die Option direkte Lie
 
 ### Rumpfvertrag
 
-![Image :den Rumpfvertrag anlegen](../files/ctpAbb43.PNG) Abb.43 den Rumpfvertrag anlegen
+![Image :den Rumpfvertrag anlegen](../files/ctpAbb43.png) Abb.43 den Rumpfvertrag anlegen
 
 In dieser Maske wird lediglich das Startdatum des Rumpfvertrages ausgewählt. Im folgenden Abschnitt legen Sie das Startdatum des zugehörigen Hauptvertrages fest; auf Grundlage davon ermittelt und ergänzt die Anwendung das Enddatum des Rumpfvertrages für Sie.
 
 ### Hauptvertrag
 
-![Image :Hauptvertrag anpassen](../files/ctpAbb44.PNG) Abb.44 Hauptvertrag anpassen
+![Image :Hauptvertrag anpassen](../files/ctpAbb44.png) Abb.44 Hauptvertrag anpassen
 
 Zunächst wird hier der Vertragsintervall erfasst: Wie oft soll der Vertrag während der Laufzeit erfüllt werden? Möchten Sie den Vertrag jeweils vom ersten des Monats bis zum letzten des Monats ausführen, wählen Sie hier Kalendermonat aus. Wenn Ihnen vom 01.01. bis zum 31.12. lieber ist, ist das Kalenderjahr für Sie. Möchten Sie jährlich abrechnen, aber nicht vom 01. Januar bis zum 31. Dezember, können Sie hier jährlich auswählen. Das Startdatum des Vertrages können Sie hier dann frei wählen. Sollten Sie einen Rumpfvertrag erstellt haben, kann das Startdatum allerdings erst nach dem Auslaufen des Rumpfvertrages sein.
 <span style="color:blue">Beispiel:</span> Wenn der Rumpfvertrag ab dem 01.10. als Übergangslösung bis zum 31.12. abgeschlossen wird, kann der Hauptvertrag nicht vor dem 01.01. starten.
@@ -382,12 +382,12 @@ Wenn Sie die automatische Abrechnung über die Verkaufsrechnung aktiviert haben,
 
 Die Vertragszeile Rumpfvertrag wird bei Bedarf automatisch ergänzt. Lediglich die Tabelle Vertragszeile Hauptvertrag bedarf Ihrer Eingaben.
 
-![Image :Vertragszeile Hauptvertrag (I)](../files/ctpAbb45.PNG) Abb.45 Vertragszeile Hauptvertrag (I)
+![Image :Vertragszeile Hauptvertrag (I)](../files/ctpAbb45.png) Abb.45 Vertragszeile Hauptvertrag (I)
 
 Hier können Artikelnummern und -Beschreibungen entweder händisch eingegeben oder aus einem vorher festgelegten Pool von Auswahlmöglichkeiten eingefügt werden.  Sollten Sie die Informationen aus dem Pool beziehen, werden die nachfolgenden Felder Einheitencode und Abrechnungspreis automatisch ergänzt. Ansonsten sind diese von Ihnen einzutragen.
 Bitte beachten Sie, dass ContractPlus und Business Central über Eintragungen, die nicht entsprechend ins System eingepflegt wurden, keine statistischen Auswertungen machen können. Wir empfehlen daher das vorherige Einpflegen Ihrer Artikel.
 
-![Image :Vertragszeile Hauptvertrag (II)](../files/ctpAbb46.PNG) Abb.46 Vertragszeile Hauptvertrag (II)
+![Image :Vertragszeile Hauptvertrag (II)](../files/ctpAbb46.png) Abb.46 Vertragszeile Hauptvertrag (II)
 
 Sollten Sie „Artikel“ in der Zeile Art eingegeben haben, werden zwei weitere Felder angefügt, die ausgefüllt werden müssen. Der Lieferantenname muss zwingend angegeben werden. Selbstverständlich können Sie in jeder Zeile einen individuellen Lieferanten angeben. Mit Erstellung des Vertrages wird jeder Zeile ein eigener, korrespondierender Auftrag zugewiesen. Haben Sie in mehreren Zeilen denselben Lieferanten angegeben, so werden die Positionen in einem Sammelauftrag zusammengefasst. Die zugehörige Auftragsnummer wird in der Vertragskarte dann unter „Einkaufsbestellnummer“ ergänzt.
 Mit den zwei Feldern zum Datum können Sie Zeiträume definieren, in denen die gewählte Vertragszeile erfüllt werden soll. Soll die Zeile in jedem Intervall erfüllt werden, lassen Sie die Felder bitte leer.
@@ -405,7 +405,7 @@ Diese Auflistung können Sie auch über den Tooltip abrufen.
 
 ### Abrechnung und Wiedervorlage
 
-![Image :Abrechnungsmodalitäten und Wiedervorlage](../files/ctpAbb47.PNG) Abb.47 Abrechnungsmodalitäten und Wiedervorlage
+![Image :Abrechnungsmodalitäten und Wiedervorlage](../files/ctpAbb47.png) Abb.47 Abrechnungsmodalitäten und Wiedervorlage
 
 Der erste Schalter gibt an, ob der offene Betrag im Voraus bezahlt und über die Vertragslaufzeit verteilt wird oder nicht. Wenn ja, aktivieren Sie bitte diese Funktion.
 Das erste Abrechnungsdatum wird aus dem Hauptvertrag (ggf. Rumpfvertrag) übertragen. Ändern Sie es nur, wenn besondere Umstände, etwa den ersten Auftrag kostenfrei, dies erfordern.
@@ -417,7 +417,7 @@ Die Wiedervorlage soll Sie an den Vertrag erinnern, sodass Sie ihn, falls nötig
 
 ### Verantwortlichkeit und Ablageort
 
-![Image :Verantwortlichkeit und Ablage](../files/ctpAbb48.PNG) Abb.48 Verantwortlichkeit und Ablage
+![Image :Verantwortlichkeit und Ablage](../files/ctpAbb48.png) Abb.48 Verantwortlichkeit und Ablage
 
 Sowohl bei Vertragsunterzeichner als auch bei Vertragsverantwortlicher können bereits hinterlegte Mitarbeitende bestimmt werden. Natürlich können Sie auch hier neue Mitarbeitenden hinzufügen. Die hier hinterlegten Mitarbeitenden dürfen, müssen aber nicht identisch sein. Alternativ können Sie ein verantwortliches Team bestimmen, sollten Sie die Verantwortung nicht nur einer Kraft allein übertragen wollen. Wenn Sie bei der Einrichtung von ContractPlus die Option Team Wiedervorlage aktiviert haben, werden Erinnerungen zum Vertrag an das gesamte Team der verantwortlichen Person gesendet.
 Unter Ablageort können Sie notieren, wo der Vertrag abgelegt wurde. Das kann eine URL sowohl im Internet als auch im Intranet, oder aber auch ein Speicherpfad sein, deren Adresse Sie abtippen oder hineinkopieren könnten. Sie können auch den Verbleib einer gedruckten Kopie hinterlegen; da hier automatisch ein Hyperlink erstellt wird, führt der in diesem speziellen Fall allerdings ins Nichts.
@@ -426,13 +426,13 @@ Unter Ablageort können Sie notieren, wo der Vertrag abgelegt wurde. Das kann ei
 
 Im Textfeld unter Vertragsinformationen können Sie wichtige Anmerkungen, zusätzliche Daten und dergleichen direkt am Vertrag sichtbar hinterlassen.
 
-![Image :Informationen und Historie](../files/ctpAbb49.PNG) Abb.49 Informationen und Historie
+![Image :Informationen und Historie](../files/ctpAbb49.png) Abb.49 Informationen und Historie
 
 In der Vertragshistorie werden Änderungen am Vertrag erfasst. Diese Änderungen könnten der Auftragsturnus, aber auch die Kontaktdaten oder geänderte Zahlungsbedingungen sein. Diese Tabelle wird vom System automatisch ausgefüllt; hierum brauchen Sie sich also nicht zu kümmern.
 
 ### Infoboxbereich
 
-![Image :die Infobox](../files/ctpAbb50.PNG) Abb.49 die Infobox
+![Image :die Infobox](../files/ctpAbb50.png) Abb.49 die Infobox
 
 Auf der rechten Seite finden Sie die Infobox, in der Sie diverse Dinge an den Vertrag anhängen können. Mit einem Klick auf den i-Button   können Sie die Box ausblenden.
 
@@ -481,7 +481,7 @@ Nachdem der Vertrag erfüllt wurde, können Sie hier eine Abrechnung erstellen. 
 
 Haben Sie bei der Vertragserstellung die automatische Abrechnung über die Verkaufsrechnung aktiviert, können Sie hier einsehen, wie viele Abrechnungen zum Vertrag bereits angefertigt wurden. Durch Klicken auf die Anzahl sehen Sie eine Auflistung aller verzeichneten Abrechnungen. Sie sehen hier auch, wie viele Einheiten der Vertragszeilen mit welcher Abrechnung fakturiert wurden. Um die Rechnung zu buchen, klicken Sie auf die entsprechende Rechnungsnummer.
 
-![Image : Übersicht der Abrechnungen](../files/ctpAbb53.PNG) Abb.50 Übersicht der Abrechnungen
+![Image : Übersicht der Abrechnungen](../files/ctpAbb53.png) Abb.50 Übersicht der Abrechnungen
 
 ### ContractPlus im Business Central Rollencenter
 

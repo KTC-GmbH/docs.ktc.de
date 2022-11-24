@@ -26,7 +26,7 @@ Custom number series can be assigned for all contract types and dimensions can b
 
 ### Added value
 
-![Image Added value through the ContractPlus app](../files/ctpAbb1.PNG) Fig.1 Added value through the ContractPlus app
+![Image Added value through the ContractPlus app](../files/ctpAbb1.png) Fig.1 Added value through the ContractPlus app
 
 ## Installation and license management
 
@@ -38,18 +38,18 @@ Please note that ContractPlus is only available from version 21.0. This means th
 
 he company administrator must grant you the following permissions in Business Central to install a KTC extension in your environment: D365 EXTENSION MGT or EXT MGT. - ADMIN.
 
-![Image MS D365 BC - Permissions](../files/ctpAbb2.PNG) Fig.2 MS D365 BC - Permissions
+![Image MS D365 BC - Permissions](../files/ctpAbb2.png) Fig.2 MS D365 BC - Permissions
 
 ### Installation via the Marketplace
 
 The KTC ContractPlus app can be installed directly in Business Central via the Marketplace for extensions.
 Enter Marketplace in the search and select Marketplace for Extensions.
 
-![Image Microsoft Marketplace for Extensions (AppSource)](../files/ctpAbb3.PNG) Fig.3 Microsoft Marketplace for Extensions (AppSource).
+![Image Microsoft Marketplace for Extensions (AppSource)](../files/ctpAbb3.png) Fig.3 Microsoft Marketplace for Extensions (AppSource).
 
 In the Marketplace search, type ContractPlus and select the app shown below.
 
-![Image Marketplace ContractPlus](../files/ctpAbb4.PNG) Fig.4 Marketplace ContractPlus
+![Image Marketplace ContractPlus](../files/ctpAbb4.png) Fig.4 Marketplace ContractPlus
 
 Click on "Free trial" to enter the extension installation.
 
@@ -57,12 +57,12 @@ Click on "Free trial" to enter the extension installation.
 
 You can also install the app directly from the Microsoft AppSource. To do this, log in to the MS App Source and search for the ContractPlus extension.
 
-![Image ContractPlus directly in MS AppSource, call via browser](../files/ctpAbb4.PNG) Fig.5 ContractPlus directly in MS AppSource, call via browser.
+![Image ContractPlus directly in MS AppSource, call via browser](../files/ctpAbb4.png) Fig.5 ContractPlus directly in MS AppSource, call via browser.
 
 Also in this overview, you can add the application to your Business Central environment using the "Free trial" button.
 Click on the "Free trail button and you will be redirected to your Dynamics 365 Business Central. You will be presented with a window where you can select which environment you want to install the extension on.
 
-![Image Dynamics 365 Business Central - Selecting the environment](../files/ctpAbb6.PNG) Fig.6 Dynamics 365 Business Central - Selecting the environment.
+![Image Dynamics 365 Business Central - Selecting the environment](../files/ctpAbb6.png) Fig.6 Dynamics 365 Business Central - Selecting the environment.
 
 By clicking Install, you will be redirected to the extension installation.
 
@@ -72,7 +72,7 @@ The ContractPlus extension can only be used with the help of licensing. For this
 In the extension installation you can choose from the different languages of the ContractPlus extension. The supported languages are: English, German, Italian, French, Dutch, Spanish, Polish and Portuguese.
 If your BC is set in a language that is not supported by ContractPlus, the extension will be installed in English by default.
 
-![Image Extension installation: Language selection and installation](../files/ctpAbb7.PNG) Fig.7 Extension installation: Language selection and installation
+![Image Extension installation: Language selection and installation](../files/ctpAbb7.png) Fig.7 Extension installation: Language selection and installation
 
 Clicking Install will install the application in your environment. The installation of the app may take a few minutes. Once the extension has been successfully installed, you will see a message. Clicking OK will take you back to the start screen.
 
@@ -81,11 +81,11 @@ Clicking Install will install the application in your environment. The installat
 To see the successful installation or the installation progress of extensions, enter Extension Management in the search and go to the corresponding menu item.
 Via the item Manage you can now get to the installation status view.
 
-![Image : Checking the installation status](../files/ctpAbb8.PNG) Fig.8 Checking the installation status
+![Image : Checking the installation status](../files/ctpAbb8.png) Fig.8 Checking the installation status
 
 An extension is completely installed and ready for use when the status is completed.
 
-![Image : Installation status: completed](../files/ctpAbb9.PNG) Fig.9 Installation status: completed
+![Image : Installation status: completed](../files/ctpAbb9.png) Fig.9 Installation status: completed
 
 ### Calling the KTC License Management App
 
@@ -98,28 +98,28 @@ If you do not have the KTC License Management App yet, it will be installed toge
 
 To open the license management, enter "KTC Liz" in the search and select the KTC License Management app.
 
-![Image : Opening the KTC License Management App](../files/ctpAbb10.PNG) Fig.10 Opening the KTC License Management App
+![Image : Opening the KTC License Management App](../files/ctpAbb10.png) Fig.10 Opening the KTC License Management App
 
 ### Initial setup of the License Management App (new customer)
 
 To use ContractPlus as a new customer of our programs, please open KTC License Management first. The program will be installed automatically as soon as you have obtained ContractPlus from AppSource. To do this, enter License in the search mask and select the management program KTC License Management.
 
-![Image:Calling up the license management](../files/ctpAbb11.PNG) Fig.11 Calling up the license management
+![Image:Calling up the license management](../files/ctpAbb11.png) Fig.11 Calling up the license management
 
 When you initially start the KTC License Management App, your tenant ID is not yet set. This will be determined and set automatically in the next step.
 
-![Image : : Setting up the KTC License Management Extension](../files/ctpAbb12.PNG) Fig.12 Setting up the KTC License Management Extension
+![Image : : Setting up the KTC License Management Extension](../files/ctpAbb12.png) Fig.12 Setting up the KTC License Management Extension
 
 Start the setup wizard and enter your company name and e-mail address. All KTC extensions will be associated with this company name and email address.
 
 <span style="color:blue">Attention:</span> You will need this e-mail address to recover the access data. For billing purposes, another e-mail address can be stored later.
 Please read the license agreement and confirm that you have read and accept it.
 
-![Image : The KTC License Setup Wizard](../files/ctpAbb13.PNG) Fig.13 The KTC License Setup Wizard
+![Image : The KTC License Setup Wizard](../files/ctpAbb13.png) Fig.13 The KTC License Setup Wizard
 
 Then confirm your input with Next. The KTC will now automatically generate a password for you, which you can use to log in to the license management.
 
-![Image : : KTC License Management Password (License Key) ](../files/ctpAbb14.PNG) Fig.14 KTC License Management Password (License Key)
+![Image : : KTC License Management Password (License Key) ](../files/ctpAbb14.png) Fig.14 KTC License Management Password (License Key)
 
 Click OK to save the information. In the next window, click Done to complete the setup. The ContractPlus extension will now automatically appear in the overview of applications licensed through KTC.
 
@@ -130,16 +130,16 @@ Click OK to save the information. In the next window, click Done to complete the
 Since you have already installed a KTC Extension, you are already registered for the KTC License Management App.  Accordingly, you already have access.
 To complete the installation of the ContractPlus Extension, open the setup wizard of the KTC License Management App (e.g. via Search -> KTC License Management).
 
-![Image : Setup of the KTC License Management Extension ](../files/ctpAbb15.PNG) Fig.15 Setup of the KTC License Management Extension
+![Image : Setup of the KTC License Management Extension ](../files/ctpAbb15.png) Fig.15 Setup of the KTC License Management Extension
 
 After opening the setup wizard, please enter your existing credentials to install the new extension on your tenant. Your tenant ID will be automatically filled in for you, so you only need to fill in your email and password. If you have forgotten your password, you can request a new one via "Forgot your password?" (cf. Password of the KTC License Management App ).
 
-![Image : repeated setup of the KTC License Management App](../files/ctpAbb16.PNG) Fig.16 repeated setup of the KTC License Management AppExtension
+![Image : repeated setup of the KTC License Management App](../files/ctpAbb16.png) Fig.16 repeated setup of the KTC License Management AppExtension
 
 After that, please go to "Next". The setup of the KTC License Management App is now complete. All valid and available KTC licenses are automatically imported from the KTC license server.
 The ContractPlus App is now installed and appears in your license overview.
 
-![Image : License overview](../files/ctpAbb17.PNG) Fig.17 License overview
+![Image : License overview](../files/ctpAbb17.png) Fig.17 License overview
 
 The setup of the KTC License Management App is now complete. You can now use the ContractPlus App.
 
@@ -147,18 +147,18 @@ The setup of the KTC License Management App is now complete. You can now use the
 
 You can use the Forgot password? function to generate a new password (= license key). A new tab will open where you enter the email address linked to the license and click on "Submit".
 
-![Image : reset password (license key) ](../files/ctpAbb18.PNG) Fig.18 reset password (license key)
+![Image : reset password (license key) ](../files/ctpAbb18.png) Fig.18 reset password (license key)
 
 A link will be sent to this e-mail. Click on the link to get the new password. Please save it separately. The old password hereby loses its validity.
 
-![Image : Get new password (license key) ](../files/ctpAbb19.PNG) Fig.19 Get new password (license key)
+![Image : Get new password (license key) ](../files/ctpAbb19.png) Fig.19 Get new password (license key)
 
 ### Managing KTC licenses
 
 If you want to check the status of your licenses, open the KTC License Management App and select the application you want to check (1) and click Update (2).
 In the overview you can see if the license is valid, if you need detailed information you can find more information under Manage.
 
-![Image : Manually check installed licenses ](../files/ctpAbb20.PNG) Fig.20 Manually check installed licenses
+![Image : Manually check installed licenses ](../files/ctpAbb20.png) Fig.20 Manually check installed licenses
 
 If you don't want to use the app anymore, you can mark the installed apps in the extension management and uninstall them.
 
@@ -166,11 +166,11 @@ If you don't want to use the app anymore, you can mark the installed apps in the
 
 The application is updated through the Microsoft Dynamics 365 Business Central Admin Center. The KTC License Management App will also show you if there are new versions of the KTC extensions.
 
-![Image : Open the Microsoft Dynamics 365 Business Central Admin Portal](../files/ctpAbb21.PNG) Fig.21 Open the Microsoft Dynamics 365 Business Central Admin Portal.
+![Image : Open the Microsoft Dynamics 365 Business Central Admin Portal](../files/ctpAbb21.png) Fig.21 Open the Microsoft Dynamics 365 Business Central Admin Portal.
 
 To open your app overview, go to Environments manage apps to see a list of installed apps. In this list you will see, among other things, the installed version and the information whether "your" version is also the current one (see Fig.21).
 
-![Image : Selection of the environment in the Dynamics 365 Business Central Admin Center](../files/ctpAbb22.PNG) Fig.22 Selection of the environment in the Dynamics 365 Business Central Admin Center
+![Image : Selection of the environment in the Dynamics 365 Business Central Admin Center](../files/ctpAbb22.png) Fig.22 Selection of the environment in the Dynamics 365 Business Central Admin Center
 
 If necessary, you can update our application to the latest version here. To do this, you first need to select the extension you want to update.
 To do this, go to Apps -> Manage Apps -> Update. The KTC License Management and ContractPlus applications will now be updated to the latest version. Once the update is complete, you can exit the Admin Center and continue working with the applications in your Business Central environment.
@@ -179,7 +179,7 @@ To do this, go to Apps -> Manage Apps -> Update. The KTC License Management and 
 
 In the Business Central activity summary search, type "extension" and select extension management.
 
-![Image : Calling up the extension management](../files/ctpAbb23.PNG) Fig.23 Calling up the extension management
+![Image : Calling up the extension management](../files/ctpAbb23.png) Fig.23 Calling up the extension management
 
 Select the KTC License Management App and choose Manage -> Uninstall. Alternatively, you can click the Yes that appears in front of the KTC Licence Management app in the Extensions overview. In the next window, select whether you also want to delete the data created in the extension and confirm the installation by clicking Uninstall. The application will be removed from your system now; all data of this application will be deleted.
 
@@ -202,11 +202,11 @@ Important: In order to access the ContractPlus App setup page, you must have SUP
 
 Type ContractPlus in the search bar and select the ContractPlus setup to perform the setup.
 
-![Image : ContractPlus setup](../files/ctpAbb24.PNG) Fig.24 ContractPlus setup
+![Image : ContractPlus setup](../files/ctpAbb24.png) Fig.24 ContractPlus setup
 
 n the administration of ContractPlus you can activate or deactivate the application in the current client. So you can define individually which clients can work with the ContractPlus extension.
 
-![Image : Activate ContractPlus](../files/ctpAbb25.PNG) Fig.25 Activate ContractPlus
+![Image : Activate ContractPlus](../files/ctpAbb25.png) Fig.25 Activate ContractPlus
 
 Without activating the button it is not possible to use ContractPlus in the selected client. After pressing the button Activate ContractPlus, the window will be closed automatically. For further setup, you have to call up the ContractPlus setup again via the search.
 
@@ -216,9 +216,9 @@ When the app is activated, it is necessary to define some initial settings in th
 
 <span style="color:blue">Attention:</span> The number series must be different, otherwise different contract types will be classified in the same series. This can lead to incorrect evaluations.
 
-![Image : Setup of the number series](../files/ctpAbb26.PNG) Fig.26 Setup of the number series
+![Image : Setup of the number series](../files/ctpAbb26.png) Fig.26 Setup of the number series
 
-![Image : Is the resubmission person or team oriented](../files/ctpAbb27.PNG) Fig.27 Is the resubmission person or team oriented
+![Image : Is the resubmission person or team oriented](../files/ctpAbb27.png) Fig.27 Is the resubmission person or team oriented
 
 If you want to look at a contract again before you renew it or cancel it on time, you can use resubmission. When you create the contract, you specify a date on which the contract should be viewed again and, if necessary, edited.
 In the contract card, you can assign a responsible employee to each contract who will take care of it. If you want the reminder about the contract to be sent to all employees of the responsible team, activate the Team Resubmission switch here. This way all team members will be informed.
@@ -230,7 +230,7 @@ For a sales contract, the team leader of the sales team is defined as the respon
 
 ContractPlus uses dimensions to assign contracts at the item level. You can also define these in the ContractPlus setup.
 
-![Image : Setting up the dimensions](../files/ctpAbb28.PNG) Fig.28 Setting up the dimensions
+![Image : Setting up the dimensions](../files/ctpAbb28.png) Fig.28 Setting up the dimensions
 
 The Contract Type dimension is used to categorize the contract and is automatically set using the Contract Category.
 The Contract Number dimension is an automatic dimension that also stores the contract number in the dimension. This simplifies a later evaluation considerably, since the contract number is available on item level. For the direct contract, this is the contract number without customer or vendor suffix.
@@ -241,7 +241,7 @@ The customer number dimension is automatically updated once a day. All your cust
 
 ### Setup: Delete archived contracts
 
-![Image : Delete archived contracts](../files/ctpAbb29.PNG) Fig.29 Delete archived contracts
+![Image : Delete archived contracts](../files/ctpAbb29.png) Fig.29 Delete archived contracts
 
 This function allows you to delete archived contracts. Further, you can define which type of archived contracts should be deleted and which should be kept. In total, you have three different options to choose from here: archived customer contracts, archived supplier contracts and archived partner contracts. Only contracts that also correspond to these contract types are affected by these settings.
 
@@ -251,12 +251,12 @@ This function allows you to delete archived contracts. Further, you can define w
 
 The flow of goods involves several steps. In the graphic, you can see that ContractPlus handles much of the commercial process for you. This gives you time for other aspects of your business.
 
-![Image : Settle contracts](../files/ctpAbb30.PNG) Fig.30 Settle contracts
+![Image : Settle contracts](../files/ctpAbb30.png) Fig.30 Settle contracts
 
 Contracts can be billed in a number of ways. Two ways supported by Business Central are sales invoice billing and sales order billing. Using ContractPlus, you can bill contracts in both ways.
 All contracts created in ContractPlus are associated with contract categories that allow you to specify which way the contract should be billed.
 
-![Image : Contract categories](../files/ctpAbb31.PNG) Fig.31 Contract categories
+![Image : Contract categories](../files/ctpAbb31.png) Fig.31 Contract categories
 
 The contract categories are freely definable by you. Please note that only automatic billing via the contract can be activated in the categories. If you prefer to bill the contracts manually, leave the box unchecked.
 
@@ -274,24 +274,24 @@ Direct contracts are for goods or services that are purchased and resold directl
 This is where you create the dimension values for your contract categories. Based on these values, you can later evaluate your contracts.
 To do this, first search for "dimensions" in the search mask.
 
-![Image :Manage the dimensions](../files/ctpAbb32.PNG) Fig.32 Manage the dimensions
+![Image :Manage the dimensions](../files/ctpAbb32.png) Fig.32 Manage the dimensions
 
 First select the dimension you want to maintain. Then, via the Dimension tab, select the Dimension Values button.
 There you can then edit already existing dimension values or create a new value with an associated code as well as name using "+New".
 
-![Image :the dimension "Contract Type](../files/ctpAbb34.PNG) Fig.33 the dimension "Contract Type
+![Image :the dimension "Contract Type](../files/ctpAbb34.png) Fig.33 the dimension "Contract Type
 
 ## Setting up the contract categories
 
 <span style="color:blue">Important:</span> The ContractPlus app must be fully set up to manage the contract categories. Please refer to 5.3 Initial application setup for more information.
 
-![Image :Dimension values for contract types](../files/ctpAbb35.PNG) Fig.34 Dimension values for contract types
+![Image :Dimension values for contract types](../files/ctpAbb35.png) Fig.34 Dimension values for contract types
 
 After the dimensions for the contract types have been entered, the contract categories can now be created and assigned to one of the defined dimensions.
 Contract relationship defines the relationship we have with our contract partner. These are then of course dependent on the contract type. Each contract type maintains its own contract relationship, on which the conditions of the parties involved depend. These relationships are: Customer, Supplier, and Partner. Number and description can be freely defined here, while the relationship is selected from one of the given options.
 Under Dimension value the dimension for this category is defined. All entries of this category are now automatically assigned to the stored dimension.
 
-![Image :Manage Contract Categories](../files/ctpAbb36.PNG) Fig.35 Manage Contract Categories
+![Image :Manage Contract Categories](../files/ctpAbb36.png) Fig.35 Manage Contract Categories
 
 The automatic billing of a sales order is a default value for this category. It determines whether the entry will be billed along with the sales order. You can activate or deactivate this option here. An individual setting is possible for each entry in the list.
 Changeable contract billing determines whether quantities can be adjusted for each billing interval in this contract category. This is useful if your customers (or yourself) do not need the same quantity every month. You can also enable or disable this option here, and set it individually for each entry.
@@ -300,7 +300,7 @@ Changeable contract billing determines whether quantities can be adjusted for ea
 
 ### ContractPlus in the activities
 
-![Image : ContractPlus "Tiles" in the Role Center](../files/ctpAbb37.PNG) Fig.36 ContractPlus "Tiles" in the Role Center
+![Image : ContractPlus "Tiles" in the Role Center](../files/ctpAbb37.png) Fig.36 ContractPlus "Tiles" in the Role Center
 
 Your contracts are distributed here on a total of four tiles. The left tile, Contracts, opens an overview of all your contracts. Here you can also create new contracts. The second tile from the left, "active contracts customer and supplier" shows you an overview of all direct contracts. The third tile titled "active contracts vendor" hides a listing of all customer contracts. Under "Contracts on Resubmission" you will find those contracts that are soon due to be viewed again, provided you have marked them for resubmission (see Billing and Resubmission).
 
@@ -308,7 +308,7 @@ Your contracts are distributed here on a total of four tiles. The left tile, Con
 
 Clicking on one of the tiles in the activities takes you to a list overview of the contracts stored here. In this view, the contracts can be shown or hidden using various filters.
 
-![Image :Contract overview](../files/ctpAbb38.PNG) Fig.37 : Contract overview
+![Image :Contract overview](../files/ctpAbb38.png) Fig.37 : Contract overview
 
 The following information is displayed in the contract overview:
 
@@ -326,12 +326,12 @@ The following information is displayed in the contract overview:
 
 All of this information is read from the respective contract tab and adjusts depending on the processing status.
 
-![Image :the "Contracts" tab in the overview](../files/ctpAbb39.PNG) Fig.38 : The "Contracts" tab in the overview
+![Image :the "Contracts" tab in the overview](../files/ctpAbb39.png) Fig.38 : The "Contracts" tab in the overview
 
 In the contracts overview, you will also find various tabs that contain additional functions of ContractPlus. For example, in the Contracts tab you can view customer, supplier or partner contracts that are linked to the contract selected in the overview. In the Contract Archive you will find already archived contracts, and in the Categories you can customize, add or modify imported categories.
 In the Process tab, you will find management options for the selected contract. For example, you can renew the contract if the automatic renewal has not been activated. You can archive your entries, mark them for resubmission or restore archived contracts.
 
-![Image :the "Process" tab in the overview](../files/ctpAbb40.PNG) Fig.41 : the "Process" tab in the overview
+![Image :the "Process" tab in the overview](../files/ctpAbb40.png) Fig.41 : the "Process" tab in the overview
 
 ### Contract tab - create a new contract
 
@@ -340,7 +340,7 @@ Fields with a gray background are filled in automatically; you do not need to en
 
 ### Master data
 
-![Image :Master data of new contract](../files/ctpAbb41.PNG) Fig.42 : Master data of the new contract
+![Image :Master data of new contract](../files/ctpAbb41.png) Fig.42 : Master data of the new contract
 
 Here you first select a previously created contract category via "..." (cf. Setting up the contract categories). The contract relationship will be filled in here automatically and matching the selected category.
 The contract number will also be added automatically and continuously; however, if you want a special contract number, you can select it under "..." or create it freely by clicking on "+New".
@@ -359,13 +359,13 @@ If you are only the intermediary, you can select the Direct delivery option here
 
 ### Hull contract
 
-![Image :create the short contract](../files/ctpAbb43.PNG) Fig.43 Create the short contract
+![Image :create the short contract](../files/ctpAbb43.png) Fig.43 Create the short contract
 
 In this mask, only the start date of the short contract is selected. In the following section, you specify the start date of the related main contract; based on this, the application determines and completes the end date of the abbreviated contract for you.
 
 ### Main contract
 
-![Image :Customize main contract](../files/ctpAbb44.PNG) Fig.44 Customize main contract
+![Image :Customize main contract](../files/ctpAbb44.png) Fig.44 Customize main contract
 
 First of all, the contract interval is entered here: How often should the contract be fulfilled during the term? If you want to execute the contract from the first of the month to the last of the month, select Calendar month here. If you prefer from 01.01. to 31.12., the calendar year is for you. If you would like to settle annually, but not from 01 January to 31 December, you can select annually here. You can then freely select the start date of the contract here. If you have created an abbreviated contract, however, the start date can only be after the abbreviated contract has expired.
 
@@ -388,12 +388,12 @@ If you have activated automatic billing via the sales invoice, the associated or
 
 The contract line Hull contract will be completed automatically if required. Only the table Contract line Main contract requires your input.
 
-![Image :Contract line main contract (I)](../files/ctpAbb45.PNG) Fig.45 Contract line main contract (I)
+![Image :Contract line main contract (I)](../files/ctpAbb45.png) Fig.45 Contract line main contract (I)
 
 Here, part numbers and descriptions can be entered either manually or inserted from a predefined pool of choices.  If you obtain the information from the pool, the subsequent fields Unit code and Settlement price will be added automatically. Otherwise, these must be entered by you.
 Please note that ContractPlus and Business Central cannot make statistical evaluations of entries that have not been entered into the system accordingly. We therefore recommend that you enter your items beforehand.
 
-![Image :Contract line main contract (II)](../files/ctpAbb46.PNG) Fig.46 Contract line main contract (II)
+![Image :Contract line main contract (II)](../files/ctpAbb46.png) Fig.46 Contract line main contract (II)
 
 If you have entered "Item" in the Type line, two more fields will be added that must be filled in. It is mandatory to enter the supplier name. Of course, you can specify an individual supplier in each line. When the contract is created, each line is assigned its own corresponding order. If you have specified the same supplier in several lines, the items will be combined in a collective order. The corresponding order number is then added in the contract card under "Purchase order number".
 With the two fields for the date you can define periods in which the selected contract line is to be fulfilled. If the line is to be fulfilled in every interval, please leave the fields empty.
@@ -411,7 +411,7 @@ You can also access this listing via the tooltip.
 
 ### Billing and resubmission
 
-![Image :Billing modalities and resubmission](../files/ctpAbb47.PNG) Fig.47 Billing modalities and resubmission
+![Image :Billing modalities and resubmission](../files/ctpAbb47.png) Fig.47 Billing modalities and resubmission
 
 The first switch specifies whether the open amount is paid in advance and distributed over the contract period or not. If yes, please activate this function.
 The first billing date is transferred from the main contract (if applicable, short contract). Change it only if special circumstances, such as the first order free of charge, require it.
@@ -423,7 +423,7 @@ The resubmission is intended to remind you of the contract, so that you can canc
 
 ### Responsibility and filing location
 
-![Image :Responsibility and filing](../files/ctpAbb48.PNG) Fig.48 Responsibility and filing
+![Image :Responsibility and filing](../files/ctpAbb48.png) Fig.48 Responsibility and filing
 
 Both at Contract signer and at Contract responsible person already deposited employees can be determined. Of course, you can also add new employees here. The employees stored here may, but do not have to be identical. Alternatively, you can define a responsible team, if you do not want to assign the responsibility to just one person. If you have activated the Team Resubmission option when setting up ContractPlus, reminders about the contract will be sent to the entire team of the responsible person.
 Under File Location, you can note where the contract was filed. This can be a URL both on the Internet and on the intranet, or a storage path whose address you could type or copy into it. You can also store the whereabouts of a printed copy; however, since a hyperlink is automatically created here, it leads nowhere in this particular case.
@@ -432,13 +432,13 @@ Under File Location, you can note where the contract was filed. This can be a UR
 
 In the text field under Contract Information you can leave important remarks, additional data and the like directly visible on the contract.
 
-![Image :Information and History](../files/ctpAbb49.PNG) Fig.49 Information and History
+![Image :Information and History](../files/ctpAbb49.png) Fig.49 Information and History
 
 The contract history is where changes to the contract are recorded. These changes could be the order frequency, but also the contact details or changed payment terms. This table is filled in automatically by the system, so you don't need to worry about this.
 
 ### Infobox area
 
-![Image :the Infobox](../files/ctpAbb50.PNG) Fig.49 the Infobox
+![Image :the Infobox](../files/ctpAbb50.png) Fig.49 the Infobox
 
 On the right side you will find the infobox where you can attach various things to the contract. You can hide the box by clicking on the i-button.
 
@@ -487,7 +487,7 @@ After the contract has been fulfilled, you can create an invoice here. Relevant 
 
 If you have activated automatic billing via the sales invoice when creating the contract, you can see here how many billings have already been made for the contract. By clicking on the number you will see a listing of all recorded settlements. You can also see here how many units of the contract lines have been invoiced with which settlement. To post the invoice, click on the corresponding invoice number.
 
-![Image : Overview of settlements](../files/ctpAbb53.PNG) Fig.50 Overview of settlements
+![Image : Overview of settlements](../files/ctpAbb53.png) Fig.50 Overview of settlements
 
 ### ContractPlus in the Business Central role center
 
