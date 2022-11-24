@@ -26,7 +26,7 @@ Für alle Vertragsarten können eigene Nummernserien vergeben werden und über D
 
 ### Mehrwert
 
-![Image Mehrwert durch die ContractPlus-App](../files/ctpAbb1.PNG) Abb.1 Mehrwert durch die ContractPlus-App
+![Image Mehrwert durch die ContractPlus-App](../files/ctpAbb1.png) Abb.1 Mehrwert durch die ContractPlus-App
 
 ## Installation und Lizenzmanagement
 
