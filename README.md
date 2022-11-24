@@ -11,9 +11,9 @@
 
 ## English
 
-- [KTC License Managaement App](ktc-license-management-EN/EN/ktc-license-management.md)
-- [ContractPlus App](ContractPlus/DE/ContractPlus_EN.md)
-- [Vendor Rating App](vendor-rating-app/EN/vandor-rating-app.md)
+- [KTC License Managaement App](ktc-license-management/EN/ktc-license-management-EN.md)
+- [ContractPlus App](ContractPlus/EN/ContractPlus_EN.md)
+- [Vendor Rating App](vendor-rating/EN/vendor-rating_EN.md)
 - [SharePointPlus](SharePointPlus/EN/SharePointPlus_EN.md)
 
 ## Contact
