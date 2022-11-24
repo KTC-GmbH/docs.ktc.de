@@ -79,7 +79,7 @@ Mit einem Klick auf Installieren wird Ihnen die Anwendung in Ihrer Umgebung inst
 ### Installationsfortschritt
 
 Um die erfolgreiche Installation oder den Installationsfortschritt von Erweiterungen zu sehen, geben Sie in der Suche Erweiterungsverwaltung ein und gehen Sie auf den entsprechenden Menüpunkt.
-Über den Punkt Manage können Sie nun in die Ansicht des Installationsstatus kommen.
+Über den Punkt Manage können Sie nun die Ansicht  Installationsstatus auswählen.
 
 ![Image : Prüfen des Installationsstatus](../files/ctpAbb8.png) Abb.8 Prüfen des Installationsstatus
 
@@ -130,7 +130,7 @@ Um die Installation der ContractPlus Extension abzuschließen, öffnen Sie den E
 
 Nach öffnen des Einrichtungsassistenten geben Sie bitte Ihre bereits vorhandenen Zugangsdaten ein, damit Sie die neue Extension auf Ihren Tenant installieren können. Ihre Tenant-ID wird automatisch für Sie ausgefüllt, Sie müssen also nur noch Ihre E-Mail und das Passwort ausfüllen. Sollten Sie Ihr Passwort vergessen haben, können Sie über „Passwort vergessen?“ ein neues anfordern (vgl. Passwort der KTC-Lizenz-Management App ).
 
-![Image : wiederholtes Einrichten der KTC Lizenz Management App](../files/ctpAbb16.png) Abb.16 wiederholtes Einrichten der KTC Lizenz Management AppErweiterung
+![Image : wiederholtes Einrichten der KTC Lizenz Management App](../files/ctpAbb16.png) Abb.16 Mehrfaches Einrichten der KTC Lizenz Management AppErweiterung
 
 Bitte gehen Sie anschließend auf Weiter. Die Einrichtung der KTC Lizenz Management App ist nun abgeschlossen. Es werden automatisch alle gültigen und verfügbaren KTC-Lizenzen vom KTC-Lizenzserver importiert.
 Die ContractPlus App ist nun fertig installiert und erscheint in Ihrer Lizenzübersicht.
