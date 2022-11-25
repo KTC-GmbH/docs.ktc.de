@@ -11,6 +11,58 @@ With automatic settlement via sales invoice, the invoice can be created without 
 With automatic settlement via sales orders, the app manages the sales orders and the associated order settlement for each contract. Thus, you also have your future contractual sales as outstanding orders automatically in the forecast.
 Custom number series can be assigned for all contract types and dimensions can be used to assign purchase and sales items to a contract and to a customer at item level.
 
+## Table of content
+
+1. [Intoduction ContracPlus App](#the-contractplus-app)
+2. [Your advantages](#your-advantages)
+3. [Your added value](#added-value)
+4. [Installation and license management](#installation-and-license-management)
+5. [Installation](#installation)
+6. [Permissions to install an extension](#permissions-to-install-an-extension)
+7. [Installation via the marketplace](#installation-via-the-marketplace)
+8. [Installation from the AppSource](#installation-from-the-appsource)
+9. [Extension installation](#extension-installation)
+10. [Installation progress](#installation-progress)
+11. [Calling the KTC Licensemanagement app](#calling-the-ktc-license-management-app)
+12. [Initial set up of the License Management App (new customer)](#initial-setup-of-the-license-management-app-new-customer)
+13. [Initial setup of the license management App (existing customer)](#initial-setup-of-the-license-management-app-existing-customers)
+14. [Reset password of the KTC License Management App](#reset-password-of-ktc-license-management-app)
+15. [Managing KTC Licenses](#managing-ktc-licenses)
+16. [Update the application](#updating-the-application)
+17. [Uninstall the application](#uninstalling-the-application)
+18. [User Manual – ContractPlus App](#user-manual---contractplus-app)
+19. [Licensing](#licensing)
+20. [Initial application setup](#initial-application-setup)
+21. [activate the  application area)](#activate-the-application-area-application-area)
+22. [Einrichten von Nummernserien und die Wiedervorlage](#setting-up-number-series-and-resubmission)
+23. [Setup the dimensions](#setting-up-the-dimensions)
+24. [Setup: delete archived contracts](#setup-delete-archived-contracts)
+
+25. [Basics](#basics)
+26. [Settlement of contracts](#settlement-of-contracts)
+27. [Setup the contract dimensions](#set-up-the-contract-dimensions)
+28. [Setup the contract categories](#setting-up-the-contract-categories)
+29. [ContractPlus in the Business Central environment](#contractplus-in-the-business-central-environment)
+30. [ContractPlus in the activities](#contractplus-in-the-activities)
+31. [Contract overview](#contract-overview)
+32. [Cobtract tab Create a new contract](#contract-tab---create-a-new-contract)
+33. [Master Data](#master-data)
+34. [Hull contract](#hull-contract)
+35. [Main contract](#main-contract)
+36. [Contract lines](#contract-lines)
+37. [Billing and resubmission](#billing-and-resubmission)
+38. [Responsability and filing location](#responsibility-and-filing-location)
+39. [Contract information and filing location](#contract-information-and-history)
+40. [Infobox area](#infobox-area)
+41. [Attachements](#attachments)
+42. [Links](#links)
+43. [Notes](#notes)
+44. [The toolbar](#the-toolbar)
+45. [The contract](#contract)
+46. [Process](#process)
+47. [ContractPlus in the Business Center role center](#contractplus-in-the-business-central-role-center)
+48. [Roles and permissions](#roles-and-permissions)
+
 ### Your advantages
 
 - Manage your contracts directly from Business Central
@@ -198,7 +250,7 @@ To use the ContractPlus App, you will need the CNP LIC User KTC.
 
 Important: In order to access the ContractPlus App setup page, you must have SUPER or CNP ADMIN KTC rights. To use the ContractPlus App, you need either the trial license or a purchased license. The rights you get with the licenses are called CNP LIC User KTC.
 
-### Activate the application area (Application Area)
+### Activate the application area
 
 Type ContractPlus in the search bar and select the ContractPlus setup to perform the setup.
 

@@ -2,7 +2,7 @@
 
 Verwalten Sie Ihre Verträge direkt in Business Central
 
-# Die ContractPlus App
+## Die ContractPlus App
 
 Die KTC ContractPlus App ist eine zentrale Vertragsverwaltung für Business Central. Verwalten und kategorisieren Sie Ihre Verträge nach Kunden, Lieferanten, Partnern und/oder Direktverträgen. Verknüpfen Sie Ihre Originaldokumente, arbeiten Sie mit einem sauberen Audit Trail und lassen Sie Einkaufs- sowie Verkaufsrechnungen automatisiert erstellen.
 Eine periodenweise Abrechnung (Kalendermonat, Kalenderjahr) wird mit der ContractPlus App zum Kinderspiel. Sie legen den Vertrag an, die App erstellt die Abrechnung - inklusive der Einkaufsseite, falls Sie Reseller sind.
@@ -16,7 +16,7 @@ Für alle Vertragsarten können eigene Nummernserien vergeben werden und über D
 1. [Einführung ContracPlus App](#die-contractplus-app)
 2. [Ihre Vorteile](#ihre-vorteile)
 3. [Ihr Mehrwert](#ihr-mehrwert)
-5. [Installation und Lizenzmanagement](#installation-und-lizenzmanagement)
+4. [Installation und Lizenzmanagement](#installation-und-lizenzmanagement)
 5. [Installation](#installation)
 6. [Berechtigungen zur Installation einer Erweiterung](#berechtigungen-zur-installation-einer-erweiterung)
 7. [Installation über den Marketplace](#installation-über-den-marketplace)
