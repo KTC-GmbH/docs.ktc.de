@@ -2,7 +2,7 @@
 
 Verwalten Sie Ihre Verträge direkt in Business Central
 
-## Die ContractPlus App
+# Die ContractPlus App
 
 Die KTC ContractPlus App ist eine zentrale Vertragsverwaltung für Business Central. Verwalten und kategorisieren Sie Ihre Verträge nach Kunden, Lieferanten, Partnern und/oder Direktverträgen. Verknüpfen Sie Ihre Originaldokumente, arbeiten Sie mit einem sauberen Audit Trail und lassen Sie Einkaufs- sowie Verkaufsrechnungen automatisiert erstellen.
 Eine periodenweise Abrechnung (Kalendermonat, Kalenderjahr) wird mit der ContractPlus App zum Kinderspiel. Sie legen den Vertrag an, die App erstellt die Abrechnung - inklusive der Einkaufsseite, falls Sie Reseller sind.
@@ -13,53 +13,54 @@ Für alle Vertragsarten können eigene Nummernserien vergeben werden und über D
 
 # Inhaltsverzeichnis
 
-1. Ihre Vorteile
-2. Ihr Mehrwert
-3. Installation und Lizenzmanagement
-4. Installation
-5. Berechtigungen zur Installation einer Erweiterung
-6. Installation über den Marketplace
-7. Installation aus dem AppSource
-8. Erweiterungsinstallation
-9. Installationsfortschritt
-10. Aufrufen der KTC Lizenz Management App
-11. Initiales Einrichten der Lizenz Management App (Neukunde)
-12. Initiales Einrichten der Lizenz Management App (Bestandskunden)
-13. Passwort der KTC-Lizenz-Management App zurücksetzen
-14. Verwaltung der KTC Lizenzen
-15. Update der Anwendung
-16. Deinstallation der Anwendung
-17. Benutzerhandbuch – ContractPlus App
-18. Lizensierung
-19. Initiales Einrichten der Anwendung
-20. Aktivieren des Anwendungsbereiches (Application Area)
-21. Einrichten von Nummernserien und die Wiedervorlage
-22. Einrichten der Dimensionen
-23. Einrichtung: Löschen archivierter Verträge
-24. Grundlagen
-25. Abrechnung von Verträgen
-26. Einrichten der Vertragsdimensionen
-27. Einrichten der Vertragskategorien
-28. ContractPlus in der Business Central-Umgebung
-29. ContractPlus in den Aktivitäten
-30. Vertragsübersicht
-31. Vertragskarte – einen neuen Vertrag anlegen
-32. Stammdaten
-33. Rumpfvertrag
-34. Hauptvertrag
-35. Vertragszeilen
-36. Abrechnung und Wiedervorlage
-37. Verantwortlichkeit und Ablageort
-38. Vertragsinformationen und -Historie
-39. Infoboxbereich
-40. Anhänge
-41. Links
-42. Notizen
-43. Die Toolbar
-44. Der Vertrag
-45. Prozesse
-46. ContractPlus im Business Central Rollencenter
-47. Rollen und Berechtigungen
+1. [Einführung ContracPlus App](#die-contractplus-app)
+2. [Ihre Vorteile](#ihre-vorteile)
+3. [Ihr Mehrwert](#ihr-mehrwert)
+5. [Installation und Lizenzmanagement](#installation-und-lizenzmanagement)
+5. [Installation](#installation)
+6. [Berechtigungen zur Installation einer Erweiterung](#berechtigungen-zur-installation-einer-erweiterung)
+7. [Installation über den Marketplace](#installation-über-den-marketplace)
+8. [Installation aus dem AppSource](#installation-aus-dem-appsource)
+9. [Erweiterungsinstallation](#erweiterungsinstallation)
+10. [Installationsfortschritt](#installationsfortschritt)
+11. [Aufrufen der KTC Lizenz Management App](#aufrufen-der-ktc-lizenz-management-app)
+12. [Initiales Einrichten der Lizenz Management App](#initiales-einrichten-der-lizenz-management-app-neukunde)
+13. [Initiales Einrichten der Lizenz Management App](#initiales-einrichten-der-lizenz-management-app-bestandskunden)
+14. [Passwort der KTC-Lizenz-Management App zurücksetzen](#passwort-der-ktc-lizenz-management-app-zurücksetzen)
+15. [Verwaltung der KTC Lizenzen](#verwaltung-der-ktc-lizenzen)
+16. [Update der Anwendung](#update-der-anwendung)
+17. [Deinstallation der Anwendung](#deinstallation-der-anwendung)
+18. [Benutzerhandbuch – ContractPlus App](#benutzerhandbuch-–-contractplus-app)
+19. [Lizensierung](#lizensierung)
+20. [Initiales Einrichten der Anwendung](#initiales-einrichten-der-anwendung)
+21. [Aktivieren des Anwendungsbereiches (Application Area)](#aktivieren-des-anwendungsbereiches-application-area)
+22. [Einrichten von Nummernserien und die Wiedervorlage](#einrichten-von-nummernserien-und-die-wiedervorlage)
+23. [Einrichten der Dimensionen](#einrichten-der-dimensionen)
+24. [Einrichtung: Löschen archivierter Verträge](#einrichtung-löschen-archivierter-verträge)
+25. [Grundlagen](#grundlagen)
+26. [Abrechnung von Verträgen](#abrechnung-von-verträgen)
+27. [Einrichten der Vertragsdimensionen](#einrichten-der-vertragsdimensionen)
+28. [Einrichten der Vertragskategorien](#einrichten-der-vertragskategorien)
+29. [ContractPlus in der Business Central-Umgebung](#contractplus-in-der-business-central-umgebung)
+30. [ContractPlus in den Aktivitäten](#contractplus-in-den-aktivitäten)
+31. [Vertragsübersicht](#vertragsübersicht)
+32. [Vertragskarte – einen neuen Vertrag anlegen](#vertragskarte-–-einen-neuen-vertrag-anlegen)
+33. [Stammdaten](#Stammdaten)
+34. [Rumpfvertrag](#Rumpfvertrag)
+35. [Hauptvertrag](#Hauptvertrag)
+36. [Vertragszeilen](#Vertragszeilen)
+37. [Abrechnung und Wiedervorlage](#abrechnung-und-wiedervorlage)
+38. [Verantwortlichkeit und Ablageort](#verantwortlichkeit-und-ablageort)
+39. [Vertragsinformationen und -Historie](#vertragsinformationen-und--historie)
+40. [Infoboxbereich](#Infoboxbereich)
+41. [Anhänge](#Anhänge)
+42. [Links](#Links)
+43. [Notizen](#Notizen)
+44. [Die Toolbar](#toolbar)
+45. [Der Vertrag](#der-vertrag)
+46. [Prozesse](#prozesse)
+47. [ContractPlus im Business Central Rollencenter](#contractplus-im-business-central-rollencenter)
+48. [Rollen und Berechtigungen](#rollen-und-berechtigungen)
 
 ### Ihre Vorteile
 
