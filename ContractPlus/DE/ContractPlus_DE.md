@@ -11,6 +11,56 @@ Bei der automatischen Abrechnung über die Verkaufsrechnung kann die Rechnung oh
 Bei der automatischen Abrechnung über Verkaufsaufträge verwaltet die App für jeden Vertrag die Verkaufsaufträge und die zugehörige Auftragsabrechnung. Somit haben Sie auch Ihre zukünftigen vertraglichen Umsätze als ausstehende Aufträge automatisch im Forecast.
 Für alle Vertragsarten können eigene Nummernserien vergeben werden und über Dimensionen können Einkaufs- und Verkaufsposten zu einem Vertrag und zu einem Kunden auf Postenebene zugeordnet werden.
 
+# Inhaltsverzeichnis
+
+1. Ihre Vorteile
+2. Ihr Mehrwert
+3. Installation und Lizenzmanagement
+4. Installation
+5. Berechtigungen zur Installation einer Erweiterung
+6. Installation über den Marketplace
+7. Installation aus dem AppSource
+8. Erweiterungsinstallation
+9. Installationsfortschritt
+10. Aufrufen der KTC Lizenz Management App
+11. Initiales Einrichten der Lizenz Management App (Neukunde)
+12. Initiales Einrichten der Lizenz Management App (Bestandskunden)
+13. Passwort der KTC-Lizenz-Management App zurücksetzen
+14. Verwaltung der KTC Lizenzen
+15. Update der Anwendung
+16. Deinstallation der Anwendung
+17. Benutzerhandbuch – ContractPlus App
+18. Lizensierung
+19. Initiales Einrichten der Anwendung
+20. Aktivieren des Anwendungsbereiches (Application Area)
+21. Einrichten von Nummernserien und die Wiedervorlage
+22. Einrichten der Dimensionen
+23. Einrichtung: Löschen archivierter Verträge
+24. Grundlagen
+25. Abrechnung von Verträgen
+26. Einrichten der Vertragsdimensionen
+27. Einrichten der Vertragskategorien
+28. ContractPlus in der Business Central-Umgebung
+29. ContractPlus in den Aktivitäten
+30. Vertragsübersicht
+31. Vertragskarte – einen neuen Vertrag anlegen
+32. Stammdaten
+33. Rumpfvertrag
+34. Hauptvertrag
+35. Vertragszeilen
+36. Abrechnung und Wiedervorlage
+37. Verantwortlichkeit und Ablageort
+38. Vertragsinformationen und -Historie
+39. Infoboxbereich
+40. Anhänge
+41. Links
+42. Notizen
+43. Die Toolbar
+44. Der Vertrag
+45. Prozesse
+46. ContractPlus im Business Central Rollencenter
+47. Rollen und Berechtigungen
+
 ### Ihre Vorteile
 
 - Verwalten Sie Ihre Verträge direkt aus Business Central
@@ -22,9 +72,9 @@ Für alle Vertragsarten können eigene Nummernserien vergeben werden und über D
 - Weisen Sie Verantwortlichkeiten dem Vertrag zu
 - Fügen Sie Dokumente und Notizen an einen Vertrag hinzu
 - Hinterlegen Sie Dimensionen, Bemerkungen und Suchbegriffe zu dem Vertrag.
-- Unterstützt werden die Sprachen: Deutsch, Englisch, Italienisch, Französisch, Niederländisch, Spanisch, Portugiesisch und Russisch.
+- Unterstützt werden die Sprachen: Deutsch, Englisch, Italienisch, Französisch, Niederländisch, Spanisch und Portugiesisch.
 
-### Mehrwert
+### Ihr Mehrwert
 
 ![Image Mehrwert durch die ContractPlus-App](../files/ctpAbb1.png) Abb.1 Mehrwert durch die ContractPlus-App
 
@@ -206,7 +256,7 @@ n der Verwaltung von ContractPlus können Sie die Anwendung im aktuellen Mandant
 
 Ohne die Aktivierung des Buttons ist die Nutzung von ContractPlus im ausgewählten Mandanten nicht möglich. Nach betätigen des Buttons ContractPlus Aktivieren, wird das Fenster automatisch geschlossen. Für die weitere Einrichtung müssen Sie erneut über die Suche die ContractPlus Einrichtung aufrufen.
 
-### Einrichten der Nummernserien und Wiedervorlage
+### Einrichten von Nummernserien und die Wiedervorlage
 
 Mit Aktivieren der App wird es notwendig, im Unterpunkt Einrichtung einige erste Einstellungen festzulegen. Für jede Vertragsart kann hier eine eigene Nummernserie definiert werden.
 
@@ -462,16 +512,16 @@ Hyperlinks, die auf den vorliegenden Vertrag Bezug nehmen, können hier angehän
 
 Hier findet sich genug Platz für Bemerkungen, die nicht in den Vertragsinformationen auftauchen sollen. Die Notizen werden nach ihrem Datum sortiert; unter dem Inhalt der Notiz finden Sie Datum und Autor. Die Notizfunktion ist eine Standardfunktion von Business Central. Diese ist, anders als die Vertragsinformationen, nicht sofort einsehbar, haben aber durch die Metadaten zum Posting die Möglichkeit, für spezifische Nutzer spezifische Informationen zu hinterlassen, ohne dass die Metadaten den Fließtext stören würden. Notizen werden nicht von ContractPlus ausgewertet oder zur Nutzung berücksichtigt.
 
-### die Toolbar
+### Die Toolbar
 
 Unter weitere Optionen -> Aktionen ist die Option Vertragsänderung hinterlegt. Hier können Sie den Vertrag zur Bearbeitung öffnen, nachdem dieser erstellt wurde. Änderungen, die über diese Funktion getroffen wurden, werden in der Vertragshistorie geloggt.
 
-### Vertrag
+### Der Vertrag
 
 Dimensionen sind Metadaten über die Eigenschaften des Vertrages, die Filtern und Auswerten leichter und akkurater gestalten. Sie können diese hier auswählen oder neu erstellen.
 Bemerkungen öffnet eine Tabelle, in der Änderungen, Hinweise, oder Fragen notiert werden können. Diese Anmerkungen landen nicht in der Vertragshistorie. Wie die Notizfunktion in der Infobox ist dies auch eine Standardfunktion von Business Central. Bei der Nutzung von ContractPlus werden Einträge in der Bemerkungen-Tabelle nicht berücksichtigt.
 
-### Prozess
+### Prozesse
 
 Die Vertragsänderung ermöglicht die Änderung des Vertrags, nachdem dieser erfasst, also schreibgeschützt gespeichert, wurde. Es ermöglicht etwa die Anpassung der Kontaktdaten oder der verantwortlichen Personen, sollten sich die Details hier verändern.
 Mit stornieren können Sie den Vertrag stornieren. Der Status des Vertrages wir hiermit auf inaktiv gesetzt und die Änderung in der Vertragshistorie verzeichnet. Automatische Verlängerungen oder Wiedervorlagen werden deaktiviert. Der stornierte Vertrag wird nicht aus der Übersicht entfernt, Sie können die Ansicht aber über das Filtersymbol anpassen, um stornierte beziehungsweise inaktive Verträge herauszufiltern.

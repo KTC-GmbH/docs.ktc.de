@@ -22,7 +22,7 @@ Custom number series can be assigned for all contract types and dimensions can b
 - Assign responsibilities to the contract
 - Add documents and notes to a contract
 - Store dimensions, remarks and search terms to the contract.
-- Supported languages: English, German, Italian, French, Dutch, Spanish, Portuguese and Russian.
+- Supported languages: English, German, Italian, French, Dutch, Spanish and Portuguese.
 
 ### Added value
 

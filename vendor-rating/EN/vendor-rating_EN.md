@@ -278,7 +278,7 @@ We are guided by the ideas of our customers - Please let us know your wishes.
 The app supports the Essentials and Premium Editions of Microsoft Dynamics 365 Business Central.
 
 ###	Supported Countries
-This app supports the following countries: Germany, Austria, Switzerland, United Kingdom and United States
+This app supports the following countries: Germany, Austria, Switzerland, United Kingdom and the USA.
 
 ### Supported Languages
 This app is available in English (United States) and German (Deutschland).

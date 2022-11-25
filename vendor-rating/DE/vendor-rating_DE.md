@@ -275,7 +275,7 @@ Die Lizenzierung ist benutzerbezogen. Es werden alle Systembenutzer der Umgebung
 
 Wir lassen uns von den Ideen unserer Kunden leiten - Bitte teilen Sie uns Ihre Wünsche mit.
 - Hinzufügen von Berechtigungssets
-- Hinzufügen weiterer Sprachen (Italienisch, Kroatisch, Serbisch, Polnisch, Russisch, Französisch, Spanisch, ...)
+- Hinzufügen weiterer Sprachen (Italienisch, Kroatisch, Serbisch, Polnisch, Russisch, Französisch, Spanisch)
 
 ## Verfügbarkeit
 
@@ -283,7 +283,7 @@ Wir lassen uns von den Ideen unserer Kunden leiten - Bitte teilen Sie uns Ihre W
 Die App unterstützt die Essentials und Premium Editionen von Microsoft Dynamics 365 Business Central.
 
 ### Unterstützte Länder
-Diese App unterstützt die folgenden Länder: Deutschland, Österreich, Schweiz, Vereinigtes Königreich und Vereinigte Staaten.
+Diese App unterstützt die folgenden Länder: Deutschland, Österreich, Schweiz, Vereinigtes Königreich und die USA.
 
 ### Unterstützte Sprachen
 Diese App ist in Englisch (Vereinigte Staaten) und Deutsch (Deutschland) verfügbar.

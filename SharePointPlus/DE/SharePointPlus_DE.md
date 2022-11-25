@@ -13,7 +13,7 @@ Für jede Ebene von SharePointPlus können Sie individuell einstellen, wieviel w
 - Ergänzen Sie automatisch Ihre Dateien durch die relevanten Metadaten wie Belegtyp, BelegID, ReferenzID, Dimension 1 und Dimension 2
 - Kategorisieren Sie Ihre Dateien
 - Sehen Sie den kompletten Schriftverkehr auf einen Blick
-- Unterstützt werden die Sprachen: Deutsch, Englisch, Italienisch, Französisch, Niederländisch, Spanisch, Polnisch und Portugiesisch
+- Unterstützt werden die Sprachen: Deutsch, Englisch, Italienisch, Französisch, Niederländisch, Spanisch, Polnisch und Portugiesisch.
 
 ### Ihr Mehrwert  
 
