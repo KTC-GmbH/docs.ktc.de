@@ -33,10 +33,10 @@ Custom number series can be assigned for all contract types and dimensions can b
 18. [User Manual – ContractPlus App](#user-manual---contractplus-app)
 19. [Licensing](#licensing)
 20. [Initial application setup](#initial-application-setup)
-21. [activate the  application area)](#activate-the-application-area-application-area)
-22. [Einrichten von Nummernserien und die Wiedervorlage](#setting-up-number-series-and-resubmission)
+21. [Activate the  application area](#activate-the-application-area-application-area)
+22. [Setting up number series and resubmissions](#setting-up-number-series-and-resubmission)
 23. [Setup the dimensions](#setting-up-the-dimensions)
-24. [Setup: delete archived contracts](#setup-delete-archived-contracts)
+24. [Setup delete archived contracts](#setup-delete-archived-contracts)
 
 25. [Basics](#basics)
 26. [Settlement of contracts](#settlement-of-contracts)
@@ -45,7 +45,7 @@ Custom number series can be assigned for all contract types and dimensions can b
 29. [ContractPlus in the Business Central environment](#contractplus-in-the-business-central-environment)
 30. [ContractPlus in the activities](#contractplus-in-the-activities)
 31. [Contract overview](#contract-overview)
-32. [Cobtract tab Create a new contract](#contract-tab---create-a-new-contract)
+32. [Contract tab: Create a new contract](#contract-tab---create-a-new-contract)
 33. [Master Data](#master-data)
 34. [Hull contract](#hull-contract)
 35. [Main contract](#main-contract)
@@ -385,7 +385,7 @@ In the Process tab, you will find management options for the selected contract. 
 
 ![Image :the "Process" tab in the overview](../files/ctpAbb40.png) Fig.41 : the "Process" tab in the overview
 
-### Contract tab - create a new contract
+### Contract tab - Create a new contract
 
 Clicking on "+New" will take you from the contract overview to a new screen where you can create a new contract.
 Fields with a gray background are filled in automatically; you do not need to enter any data here. Fields marked with a red asterisk, on the other hand, are mandatory fields; you must enter data in these fields.
