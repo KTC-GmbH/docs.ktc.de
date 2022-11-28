@@ -1,8 +1,50 @@
 # SharePointPlus | Smart SharePoint Connector MS Business Central App V1.1
 
+## Die SharePointPlus App
+
 Die KTC SharePointPlus App ist eine zentrale Dateiverwaltung für Business Central. Verwalten und kategorisieren Sie Ihre Dateien direkt in Business Central. Laden Sie Dateien in SharePoint hoch und von SharePoint herunter, exportieren und importieren Sie Einstellungen in andere SharePoint-Anwendungen für identische Einstellungen in jedem Ihrer Systeme.
 Dateien tagesgenau zum Kunden zuordnen wird mit der SharePointPlus App zum Kinderspiel.  Sie legen den Verbindungen an, die Anwendung ordnet sie automatisch den richtigen Ordnern beim richtigen Kunden zu.
 Für jede Ebene von SharePointPlus können Sie individuell einstellen, wieviel wo angezeigt wird. Legen Sie für jede Liste einzeln fest, ob diese in SharePoint hochgeladen werden soll.
+
+## Inhaltsverzeichnis
+
+1. [Die SharePointPlus App](#die-sharepointplus-app)
+2. [Ihre Vorteile](#ihre-vorteile)
+3. [Ihr Mehrwert](#ihr-mehrwert)
+4. [Mehrwert der SharePointPlus App](#mehrwert-der-sharepointplus-app)
+5. [Azure AD Einrichtung](#azure-ad-einrichtung)
+6. [Azure AD](#azure-ad)
+7. [App-Registrierung](#app-registrierung)
+8. [Api-Berechtigungen](#api-berechtigungen)
+9. [Zertifikate und Geheimnisse](#zertifikate-und-geheimnisse)
+10. [Installation und Lizenzmanagement](#installation-und-lizenzmanagement)
+11. [Installation](#installation)
+12. [Berechtigungen zur Installation einer Erweiterung](#berechtigungen-zur-installation-einer-erweiterung)
+13. [Installation über den Marketplace](#installation-über-den-marketplace)
+14. [Installation aus dem AppSource](#installation-aus-dem-appsource)
+15. [Erweiterungsinstallation](#erweiterungsinstallation)
+16. [Der Installationsfortschritt](#der-installationsfortschritt)
+17. [Aufrufen der KTC Lizenz Management App](#aufrufen-der-ktc-lizenz-management-app)
+18. [Initiales Einrichten der Lizenz Management App (Neukunden)](#initiales-einrichten-der-lizenz-management-app-neukunden)
+19. [Initiales Einrichten der Lizenz Management App (Bestandskunden)](#initiales-einrichten-der-lizenz-management-app-bestandskunden)
+20. [Ihr Installationsfortschritt](#ihr-installationsfortschritt)
+21. [Passwort bei der KTC Lizenz Management App zurücksetzen](#passwort-bei-der-ktc-lizenz-management-app-zurücksetzen)
+22. [Update der Anwendung](#update-der-anwendung)
+23. [Deinstallation der Anwendung](#deinstallation-der-anwendung)
+24. [Benutzerhandbuch – SharePointPlus App](#benutzerhandbuch-–-sharepointplus-app)
+25. [Lizensierung](#lizensierung)
+26. [Initiales Einrichten der Anwendung](#initiales-einrichten-der-anwendung)
+27. [Aktivieren von SharePointPlus im aktuellen Mandanten](#aktivieren-von-sharepointplus-im-aktuellen-mandanten)
+28. [Grundlagen](#grundlagen)
+29. [SharePointPlus konfigurieren](#sharepointplus-konfigurieren)
+30. [Allgemeine Informationen](#allgemeine-informationen)
+31. [Einrichten der Dimensionen und Formatregeln](#einrichten-der-dimensionen-und-formatregeln)
+32. [Verfügbare Seiten und Listen einrichten](#verfügbare-seiten-und-listen-einrichten)
+33. [Filter festlegen](#filter-festlegen)
+34. [Zugang freischalten und exportieren](#zugang-freischalten-und-exportieren)
+35. [SharePointPlus in Business Central](#sharepointplus-in-business-central)
+36. [Die Filterfunktion](#die-filterfunktion)
+37. [Das SharePointPlus-Menü](#das-sharepointplus-menü)
 
 ## Ihre Vorteile
 
@@ -23,7 +65,7 @@ Abb.1 Mehrwert durch die SharePointPlus App
 ![Abb.2 SharePointPlus im Einsatz](../files/SPPAbb2_DE.png)
 Abb.2 SharePointPlus im Einsatz
 
-### Mehrwert der SharePointPlus App
+## Mehrwert der SharePointPlus App
 
 Folgende Funktionen bietet Ihnen die SharePointPlus App:
 
@@ -148,7 +190,7 @@ Falls Ihr BC in einer Sprache eingestellt ist, die nicht von SharePointPlus unte
 
 Mit einem Klick auf Installieren wird Ihnen die Anwendung in Ihrer Umgebung installiert. Die Installation der App kann einige Minuten dauern. Sobald die Extension erfolgreich installiert wurde, erscheint Ihnen eine Meldung. Mit OK werden Sie zurück zum Startbildschirm geleitet.
 
-### Installationsfortschritt
+### Der Installationsfortschritt
 
 Um die erfolgreiche Installation oder den Installationsfortschritt von Erweiterungen zu sehen, geben Sie in der Suche Erweiterungsverwaltung ein und gehen Sie auf den entsprechenden Menüpunkt.
 Über den Punkt Manage können Sie nun in die Ansicht des Installationsstatus kommen.
@@ -370,7 +412,7 @@ Wählen Sie hier einen der hinterlegten Quellordner aus, sofern diese im SharePo
 
 ## Filter festlegen
 
-In der Bibliothekswahl können Sie den enthaltenen Listen über die drei Punkte -> Filter Mapping den Listeninhalten Filter zuordnen.
+In der Bibliotheksauswahl können Sie den enthaltenen Listen über die drei Punkte -> Filter Mapping den Listeninhalten Filter zuordnen.
 
 ![Abb.40: Auswahl der SharePoint Listen ](../files/SPPAbb40_DE.png) Abb.40 : Auswahl der SharePoint Listen
 

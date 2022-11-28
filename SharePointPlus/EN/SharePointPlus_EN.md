@@ -1,8 +1,50 @@
 # SharePointPlus | Smart SharePoint Connector MS Business Central App V1.1
 
+## The SharePointPlus app
+
 The KTC SharePointPlus App is a central file management for Business Central. Manage and categorize your files directly in Business Central. Upload and download files to and from SharePoint, export and import settings to other SharePoint applications for identical settings in each of your systems.
 Assigning files to clients on a daily basis becomes a breeze with the SharePointPlus app.  You create the connections, the app automatically maps them to the right folders at the right customer.
 For each level of SharePointPlus, you can individually set how much is displayed where. Specify for each list individually whether it should be uploaded to SharePoint.
+
+## Table of content
+
+1. [The SharePointPlus app](#the-sharepointplus-app)
+2. [Your benefits](#your-benefits)
+3. [Your added value](#your-added-value)
+4. [Added value of the SharePointPlus App](#added-value-of-the-sharepointplus-app)
+5. [Azure AD setup](#azure-ad-setup)
+6. [Azure AD](#azure-ad)
+7. [App registration](#app-registration)
+8. [Api permissions](#api-permissions)
+9. [Certificates and secrets](#certificates-and-secrets)
+10. [Installation and license management](#installation-and-license-management)
+11. [Installation](#installation)
+12. [Permissions to install an extension](#permissions-to-install-an-extension)
+13. [Installation via the Marketplace](#installation-via-the-marketplace)
+14. [Installing from the AppSource](#installing-from-the-appsource)
+15. [Extension installation](#extension-installation)
+16. [Installation progress](#installation-progress)
+17. [Accessing the KTC License Management App](#accessing-the-ktc-license-management-app)
+18. [Initial Setup of the License Management App (New Customers)](#initial-setup-of-the-license-management-app-new-customers)
+19. [Initial Setup of the License Management App ( Existing Customers)](#initial-setup-of-the-license-management-app-existing-customers)
+20. [Your Installation progress](#your-installation-progress)
+21. [Reset password at KTC License Management App](#reset-password-at-ktc-license-management-app)
+22. [Update the application](#update-the-application)
+23. [Uninstall the application](#uninstall-the-application)
+24. [User manual - SharePointPlus App](#user-manual---sharepointplus-app)
+25. [Licensing](#licensing)
+26. [Initial setup of the application](#initial-setup-of-the-application)
+27. [Activate SharePointPlus in the current client](#activate-sharepointplus-in-the-current-client)
+28. [The Basics](#the-basics)
+29. [Configure SharePointPlus](#configure-sharepointplus)
+30. [General Information](#general-information)
+31. [Setting up the dimensions and format rules](#setting-up-the-dimensions-and-format-rules)
+32. [Set up available pages and lists](#set-up-available-pages-and-lists)
+33. [Set filters](#set-filters)
+34. [Activate access and export](#activate-access-and-export)
+35. [SharePointPlus in Business Central](#sharepointplus-in-business-central)
+36. [The filter function](#the-filter-function)
+37. [The SharePointPlus menu](#the-sharepointplus-menu)
 
 ## Your benefits
 
@@ -15,7 +57,7 @@ For each level of SharePointPlus, you can individually set how much is displayed
 - See all correspondence at a glance
 - Supported languages: English, German, Italian, French, Dutch, Spanish, Polish and Portuguese.
 
-### Your added value  
+## Your added value  
 
 ![Fig.1 Added value through the SharePointPlus App](../files/SPPAbb1_DE.png)
 Fig.1 Added value through the SharePointPlus App
@@ -247,7 +289,7 @@ To open your app overview, go to Environments -> manage apps for a list of insta
 If necessary, you can update our application to the latest version here. To do this, you must first select the extension that you want to update.
 To do this, go to Apps -> Manage Apps -> Update. The KTC License Management and SharePointPlus applications will now be updated to the latest version. Once the update is complete, you can exit the Admin Center and continue working with the applications in your Business Central environment.
 
-### Uninstalling the application
+### Uninstall the application
 
 In the Business Central activity summary search, type extension and select extension management.
 Search for the app you want to delete and go to the administration via the three dots. Select the uninstall menu item.
@@ -378,7 +420,70 @@ This is where you set up pages and lists to be managed using SharePointPlus.
 
 ![Fig.36 : Connect to available SharePoint libraries](../files/SPPAbb36_DE.png) Fig.36 : Connect to available SharePoint libraries
 
-<span style="color:blue">Note:</span>Please note that you need to expand the infobox area for this. The SharePointPlus interface is displayed only inside the infobox area.
+<span style="color:blue">Note:</span> Please note that you must first activate SharePointPlus, complete your information and create an access authorization in order to be able to edit the following items. Without a valid access authorization, the options shown below will only be partially displayed or not displayed at all, which means that SharePointPlus cannot be configured appropriately and thus can only be used to a limited extent.
+First select the page here that you want to have managed. The URL will be added automatically by the system, as it should already be stored in the corresponding file.
+This setting is urgent, otherwise you will not be able to access the functions of SharePointPlus on these pages. The pages that you can access with SharePointPlus are predefined by Business Central. You cannot add or remove anything here. If you do not want to use certain pages, do not select them here.
+The list order is where you configure the systems you want your tables and pages to be added to. You cannot upload your documents directly to the previously selected site; they must first be added to lists, which you can then manage with SharePointPlus. These lists are provided with table number, name and linked document type.
+
+![Fig.37 : Page-related definition of the SharePoint lists to be displayed ](../files/SPPAbb37_DE.png) Fig.37 : Page-related definition of the SharePoint lists to be displayed
+
+Please note that Document Type here refers to the content of the document, not the file type. Also, you can only add pages, lists and libraries already set up in SharePoint here.
+A completely missing option must be set up through SharePoint itself before SharePointPlus can access it.
+You must assign at least one library to the selected tables to be used for management.
+Specify a source and upload folder here. These help to structure and sort the documents. If you want to see these folders also in the SharePointPlus interface, click Show folders here.
+
+![Fig.38 : Add lists of the selected SharePoint library ](../files/SPPAbb38_DE.png) Fig.38 : Add lists to the selected SharePoint library
+
+With a click on Upload to SharePoint AN the documents entered here will be integrated directly into your SharePoint environment.
+
+<span style="color:blue">Note:</span> Please note that only one list can be marked with an automatic upload at a time. If you select one list here, the function will be disabled automatically for all others.
+
+![Fig.39 : Set source folder per list ](../files/SPPAbb39_DE.png) Fig.39 : Set source folder per list
+
+Select here one of the stored source folders, if they should be stored in the SharePointPlus interface. If you do not select anything here, only the list title and the files it contains will be displayed in SharePointPlus. Once you have set up the correct source folder, confirm your selection with OK to return to the setup.
+
+## Set filters
+
+In the library selection you can assign filters to the contained lists via the three points -> Filter Mapping to the list contents.
+
+![Fig.40: Selection of SharePoint lists ](../files/SPPAbb40_DE.png) Fig.40 : Selection of SharePoint lists
+
+Select a Business Central field and a SharePoint column in the overview for this purpose. The columns available for selection depend on the selected field. You can freely select the field from Business Central. You can set a filter for each list.
+The configuration of the filters is completely optional. If you do not set anything here, the SharePointPlus interface will always show you the entire list content.
+Click the arrow in the upper left corner or press Esc to return to the library selection.
+Press OK to save the settings for the current list.
+
+![Fig.41: Assigning the metadata ](../files/SPPAbb41_DE.png) Fig.41 : Assigning the metadata
+
+![Fig.42: Adding the libraries ](../files/SPPAbb42_DE.png) Fig.42 : Adding the libraries
+
+Use current year creates a new folder - for sorting your documents. In this folder the documents are sorted into the correct year folder by the format given in 5.2.2. This way you can have files from different years managed without any problems.
+If you do not want the year folder to be displayed in your SharePointPlus environment, uncheck Show folder year here. If this function is deactivated, you will only see the libraries and the files they contain in the SharePointPlus interface. If you want to display the documents sorted by the dates, activate the check mark here.
+In this overview, you can check and uncheck all the hooks as you like. They only affect the behavior of SharePointPlus with respect to the specific list. They do not change among themselves.
+Via DocRef you can define metadata that is only used for the documents contained in the list. Again, select from the predefined list. If you are missing dimensions, you can add them via the dimension management in Business Central. With the next update, the information will be created in the SharePointPlus setup.
+If you have specified a DocRef, you can use a check mark in Filter Document to ensure that this list is only displayed in filtered form in SharePointPlus. If you do not check this box, all documents in the list will be displayed in the SharePointPlus interface. Please note that you cannot have the list filtered if you have not defined a DocRef. This setting only affects the behavior of this one list. You can also define a filter in the library selection and then decide here to display the list unfiltered.
+All other fields are created automatically by SharePointPlus, provided that the necessary information has been stored in the selection options.
+
+## Activate access and export
+
+To use SharePointPlus you need permissions that go beyond the roles and rights of Business Central.
+
+![Fig.43: Access permissions (Access-Token) ](../files/SPPAbb43_DE.png) Fig.43 : Access permissions (Access token)
+
+Create Access Credential creates a one-time Access Token that you can use to connect SharePointPlus to SharePoint and Business Central and share the programs. Such tokens are inherently valid only for a specific, short period of time. Therefore, if necessary, you can extend the lifetime of the credential with Update Access Credential.
+This function allows you to save the settings you have made in a file in order to share them. This makes sense if all your employees should work with the same settings in the same license and the same application structure. This way you can avoid incorrect or missing sorting due to irregular settings of individual users.
+The export saves the information in a file for download as well as for sharing, the import offers the possibility to include an already existing settings file into the SharePointPlus setup to copy settings from another version.
+
+![Fig.44: Save and load configurations ](../files/SPPAbb44_DE.png) Fig.44 : Save and load configurations
+
+## SharePointPlus in Business Central
+
+Via Sales -> Sales offers in Business Central you get to an overview of all your current sales offers. With SharePointPlus you can access the related documents directly in this overview.
+
+![Fig.45: SharePointPlus in the list view of sales offers ](../files/SPPAbb45_DE.png) Fig.45 : SharePointPlus in the list view of sales offers
+<span style="color:blue">Important:</span> Bitte beachten Sie, dass Sie den Infoboxbereich hierfür erweitern müssen. Die SharePointPlus-Oberfläche wird nur innerhalb des Infoboxbereiches angezeigt.
+Die Dateien, die mit dem ausgewählten Kunden verknüpft sind, werden hier seitlich angezeigt. Die Dateien werden nach Ihren in der Installation definierten Einstellungen sortiert. So haben Sie alles auf einen Blick.
+Please note that you need to expand the infobox area for this. The SharePointPlus interface is displayed only inside the infobox area.
 The files associated with the selected customer are displayed here on the side. The files are sorted according to your settings defined in the installation. So you have everything at a glance.
 
 ## The filter function
