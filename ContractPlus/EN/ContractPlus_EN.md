@@ -78,7 +78,7 @@ Custom number series can be assigned for all contract types and dimensions can b
 
 ### Added value
 
-![Image Added value through the ContractPlus app](../files/ctpAbb1.png) Fig.1 Added value through the ContractPlus app
+<!---![Image Added value through the ContractPlus app](../files/ctpAbb1.png) Fig.1 Added value through the ContractPlus app -->
 
 ## Installation and license management
 
@@ -90,18 +90,18 @@ Please note that ContractPlus is only available from version 21.0. This means th
 
 he company administrator must grant you the following permissions in Business Central to install a KTC extension in your environment: D365 EXTENSION MGT or EXT MGT. - ADMIN.
 
-![Image MS D365 BC - Permissions](../files/ctpAbb2.png) Fig.2 MS D365 BC - Permissions
+<!---![Image MS D365 BC - Permissions](../files/ctpAbb2.png) Fig.2 MS D365 BC - Permissions -->
 
 ### Installation via the Marketplace
 
 The KTC ContractPlus app can be installed directly in Business Central via the Marketplace for extensions.
 Enter Marketplace in the search and select Marketplace for Extensions.
 
-![Image Microsoft Marketplace for Extensions (AppSource)](../files/ctpAbb3.png) Fig.3 Microsoft Marketplace for Extensions (AppSource).
+<!---![Image Microsoft Marketplace for Extensions (AppSource)](../files/ctpAbb3.png) Fig.3 Microsoft Marketplace for Extensions (AppSource). -->
 
 In the Marketplace search, type ContractPlus and select the app shown below.
 
-![Image Marketplace ContractPlus](../files/ctpAbb4.png) Fig.4 Marketplace ContractPlus
+<!---![Image Marketplace ContractPlus](../files/ctpAbb4.png) Fig.4 Marketplace ContractPlus -->
 
 Click on "Free trial" to enter the extension installation.
 
@@ -109,12 +109,12 @@ Click on "Free trial" to enter the extension installation.
 
 You can also install the app directly from the Microsoft AppSource. To do this, log in to the MS App Source and search for the ContractPlus extension.
 
-![Image ContractPlus directly in MS AppSource, call via browser](../files/ctpAbb4.png) Fig.5 ContractPlus directly in MS AppSource, call via browser.
+<!---![Image ContractPlus directly in MS AppSource, call via browser](../files/ctpAbb4.png) Fig.5 ContractPlus directly in MS AppSource, call via browser. -->
 
 Also in this overview, you can add the application to your Business Central environment using the "Free trial" button.
 Click on the "Free trail button and you will be redirected to your Dynamics 365 Business Central. You will be presented with a window where you can select which environment you want to install the extension on.
 
-![Image Dynamics 365 Business Central - Selecting the environment](../files/ctpAbb6.png) Fig.6 Dynamics 365 Business Central - Selecting the environment.
+<!---![Image Dynamics 365 Business Central - Selecting the environment](../files/ctpAbb6.png) Fig.6 Dynamics 365 Business Central - Selecting the environment. -->
 
 By clicking Install, you will be redirected to the extension installation.
 
@@ -360,7 +360,7 @@ Your contracts are distributed here on a total of four tiles. The left tile, Con
 
 Clicking on one of the tiles in the activities takes you to a list overview of the contracts stored here. In this view, the contracts can be shown or hidden using various filters.
 
-![Image :Contract overview](../files/ctpAbb38.png) Fig.37 : Contract overview
+<!---![Image :Contract overview](../files/ctpAbb38.png) Fig.37 : Contract overview -->
 
 The following information is displayed in the contract overview:
 
@@ -378,12 +378,12 @@ The following information is displayed in the contract overview:
 
 All of this information is read from the respective contract tab and adjusts depending on the processing status.
 
-![Image :the "Contracts" tab in the overview](../files/ctpAbb39.png) Fig.38 : The "Contracts" tab in the overview
+<!---![Image :the "Contracts" tab in the overview](../files/ctpAbb39.png) Fig.38 : The "Contracts" tab in the overview -->
 
 In the contracts overview, you will also find various tabs that contain additional functions of ContractPlus. For example, in the Contracts tab you can view customer, supplier or partner contracts that are linked to the contract selected in the overview. In the Contract Archive you will find already archived contracts, and in the Categories you can customize, add or modify imported categories.
 In the Process tab, you will find management options for the selected contract. For example, you can renew the contract if the automatic renewal has not been activated. You can archive your entries, mark them for resubmission or restore archived contracts.
 
-![Image :the "Process" tab in the overview](../files/ctpAbb40.png) Fig.41 : the "Process" tab in the overview
+<!---![Image :the "Process" tab in the overview](../files/ctpAbb40.png) Fig.41 : the "Process" tab in the overview -->
 
 ### Contract tab - Create a new contract
 
@@ -392,7 +392,7 @@ Fields with a gray background are filled in automatically; you do not need to en
 
 ### Master data
 
-![Image :Master data of new contract](../files/ctpAbb41.png) Fig.42 : Master data of the new contract
+<!---![Image :Master data of new contract](../files/ctpAbb41.png) Fig.42 : Master data of the new contract -->
 
 Here you first select a previously created contract category via "..." (cf. Setting up the contract categories). The contract relationship will be filled in here automatically and matching the selected category.
 The contract number will also be added automatically and continuously; however, if you want a special contract number, you can select it under "..." or create it freely by clicking on "+New".
@@ -411,13 +411,13 @@ If you are only the intermediary, you can select the Direct delivery option here
 
 ### Hull contract
 
-![Image :create the short contract](../files/ctpAbb43.png) Fig.43 Create the short contract
+<!---![Image :create the short contract](../files/ctpAbb43.png) Fig.43 Create the short contract -->
 
 In this mask, only the start date of the short contract is selected. In the following section, you specify the start date of the related main contract; based on this, the application determines and completes the end date of the abbreviated contract for you.
 
 ### Main contract
 
-![Image :Customize main contract](../files/ctpAbb44.png) Fig.44 Customize main contract
+<!---![Image :Customize main contract](../files/ctpAbb44.png) Fig.44 Customize main contract -->
 
 First of all, the contract interval is entered here: How often should the contract be fulfilled during the term? If you want to execute the contract from the first of the month to the last of the month, select Calendar month here. If you prefer from 01.01. to 31.12., the calendar year is for you. If you would like to settle annually, but not from 01 January to 31 December, you can select annually here. You can then freely select the start date of the contract here. If you have created an abbreviated contract, however, the start date can only be after the abbreviated contract has expired.
 
@@ -440,12 +440,12 @@ If you have activated automatic billing via the sales invoice, the associated or
 
 The contract line Hull contract will be completed automatically if required. Only the table Contract line Main contract requires your input.
 
-![Image :Contract line main contract (I)](../files/ctpAbb45.png) Fig.45 Contract line main contract (I)
+<!---![Image :Contract line main contract (I)](../files/ctpAbb45.png) Fig.45 Contract line main contract (I) -->
 
 Here, part numbers and descriptions can be entered either manually or inserted from a predefined pool of choices.  If you obtain the information from the pool, the subsequent fields Unit code and Settlement price will be added automatically. Otherwise, these must be entered by you.
 Please note that ContractPlus and Business Central cannot make statistical evaluations of entries that have not been entered into the system accordingly. We therefore recommend that you enter your items beforehand.
 
-![Image :Contract line main contract (II)](../files/ctpAbb46.png) Fig.46 Contract line main contract (II)
+<!---![Image :Contract line main contract (II)](../files/ctpAbb46.png) Fig.46 Contract line main contract (II) -->
 
 If you have entered "Item" in the Type line, two more fields will be added that must be filled in. It is mandatory to enter the supplier name. Of course, you can specify an individual supplier in each line. When the contract is created, each line is assigned its own corresponding order. If you have specified the same supplier in several lines, the items will be combined in a collective order. The corresponding order number is then added in the contract card under "Purchase order number".
 With the two fields for the date you can define periods in which the selected contract line is to be fulfilled. If the line is to be fulfilled in every interval, please leave the fields empty.
@@ -463,7 +463,7 @@ You can also access this listing via the tooltip.
 
 ### Billing and resubmission
 
-![Image :Billing modalities and resubmission](../files/ctpAbb47.png) Fig.47 Billing modalities and resubmission
+<!---![Image :Billing modalities and resubmission](../files/ctpAbb47.png) Fig.47 Billing modalities and resubmission -->
 
 The first switch specifies whether the open amount is paid in advance and distributed over the contract period or not. If yes, please activate this function.
 The first billing date is transferred from the main contract (if applicable, short contract). Change it only if special circumstances, such as the first order free of charge, require it.
@@ -475,7 +475,7 @@ The resubmission is intended to remind you of the contract, so that you can canc
 
 ### Responsibility and filing location
 
-![Image :Responsibility and filing](../files/ctpAbb48.png) Fig.48 Responsibility and filing
+<!---![Image :Responsibility and filing](../files/ctpAbb48.png) Fig.48 Responsibility and filing -->
 
 Both at Contract signer and at Contract responsible person already deposited employees can be determined. Of course, you can also add new employees here. The employees stored here may, but do not have to be identical. Alternatively, you can define a responsible team, if you do not want to assign the responsibility to just one person. If you have activated the Team Resubmission option when setting up ContractPlus, reminders about the contract will be sent to the entire team of the responsible person.
 Under File Location, you can note where the contract was filed. This can be a URL both on the Internet and on the intranet, or a storage path whose address you could type or copy into it. You can also store the whereabouts of a printed copy; however, since a hyperlink is automatically created here, it leads nowhere in this particular case.
@@ -484,13 +484,13 @@ Under File Location, you can note where the contract was filed. This can be a UR
 
 In the text field under Contract Information you can leave important remarks, additional data and the like directly visible on the contract.
 
-![Image :Information and History](../files/ctpAbb49.png) Fig.49 Information and History
+<!--- ![Image :Information and History](../files/ctpAbb49.png) Fig.49 Information and History -->
 
 The contract history is where changes to the contract are recorded. These changes could be the order frequency, but also the contact details or changed payment terms. This table is filled in automatically by the system, so you don't need to worry about this.
 
 ### Infobox area
 
-![Image :the Infobox](../files/ctpAbb50.png) Fig.49 the Infobox
+<!---![Image :the Infobox](../files/ctpAbb50.png) Fig.49 the Infobox -->
 
 On the right side you will find the infobox where you can attach various things to the contract. You can hide the box by clicking on the i-button.
 
@@ -520,7 +520,7 @@ Hyperlinks that refer to the present contract can be attached and described here
 
 There is enough space here for notes that should not appear in the contract information. The notes are sorted by date; under the note content you will find the date and author. The note function is a standard function of Business Central. Unlike the contract information, this is not immediately viewable, but through the posting metadata, have the ability to leave information specific to specific users without the metadata interfering with the body text. Notes are not evaluated or considered for use by ContractPlus.
 
-### the toolbar
+### The toolbar
 
 Under More Options -> Actions, the Contract Modification option is stored. Here you can open the contract for editing after it has been created. Changes made via this function are logged in the contract history.
 
@@ -539,7 +539,7 @@ After the contract has been fulfilled, you can create an invoice here. Relevant 
 
 If you have activated automatic billing via the sales invoice when creating the contract, you can see here how many billings have already been made for the contract. By clicking on the number you will see a listing of all recorded settlements. You can also see here how many units of the contract lines have been invoiced with which settlement. To post the invoice, click on the corresponding invoice number.
 
-![Image : Overview of settlements](../files/ctpAbb53.png) Fig.50 Overview of settlements
+<!---![Image : Overview of settlements](../files/ctpAbb53.png) Fig.50 Overview of settlements -->
 
 ### ContractPlus in the Business Central role center
 
