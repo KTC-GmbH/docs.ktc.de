@@ -59,11 +59,11 @@ For each level of SharePointPlus, you can individually set how much is displayed
 
 ## Your added value  
 
-![Fig.1 Added value through the SharePointPlus App](../files/SPPAbb1_DE.png)
+<!---![Fig.1 Added value through the SharePointPlus App](../files/SPPAbb1_DE.png)
 Fig.1 Added value through the SharePointPlus App
 
 ![Fig.2 SharePointPlus in use](../files/SPPAbb2_DE.png)
-Fig.2 SharePointPlus in use
+Fig.2 SharePointPlus in use -->
 
 ### Added value of the SharePointPlus App
 
@@ -94,16 +94,16 @@ SharePointsPlus uses Azure AD for identity and access management. This means tha
 In order to use authentication with SharePointPlus, you need an App Registration, which must be created in the Azure Portal.
 In Azure Portal, enter App Registrations in the search bar at the top and click on the "App Registrations" service as shown in the screenshot.
 
-![Fig.3 Azure Portal - App Registrations](../files/SPPAbb3_DE.png)
-Fig.3 Azure Portal - App Registration
+<!---![Fig.3 Azure Portal - App Registrations](../files/SPPAbb3_DE.png)
+Fig.3 Azure Portal - App Registration -->
 
 Next, press "New Registration" and fill in any display name for the application there. Account type is set to "single client".
 We set the redirect URI to "web" and add this URL:
 <https://businesscentral.dynamics.com/OAuthLanding.htm> .
 After that, the app can be registered.
 
-![Fig.4 App registration](../files/SPPAbb4_DE.png)
-Fig.4 App registration
+<!---![Fig.4 App registration](../files/SPPAbb4_DE.png)
+Fig.4 App registration -->
 
 ### Api permissions
 
@@ -114,11 +114,11 @@ on "API Permissions."
 Click on "Add Permissions" and select "Microsoft Graph."
 There, they select "Delegated Permissions" and look for "Files.ReadWrite.All." Check the box and next enter "Sites.ReadWrite.All." Put a check mark there as well. Now you need to select "Add Permissions" and check that they have been applied. By default, "User.Read" is already added. If this is not the case, add this permission.
 
-![Fig.5 API Permissions Overview](../files/SPPAbb5_DE.png) Fig.5 API Permissions Overview
+<!---![Fig.5 API Permissions Overview](../files/SPPAbb5_DE.png) Fig.5 API Permissions Overview -->
 
 In order for the permissions to be granted, an admin must approve them. Once this is done, the status is green and the permissions have been granted.
 
-![Fig.6 Permissions final status](../files/SPPAbb6_DE.png) Fig.6 Permissions final status
+<!---![Fig.6 Permissions final status](../files/SPPAbb6_DE.png) Fig.6 Permissions final status -->
 
 ### Certificates and secrets
 
@@ -128,8 +128,8 @@ To do this, click on Certificates & Secrets in the navigation bar and select "Ne
 
 <span style="color:blue">Important:</span> Copy the newly created secret key and store it securely (e.g. in a password manager). The key will no longer be visible later!
 
-![Fig.7 Secret generation](../files/SPPAbb7_DE.png)
-Fig.7 Secret generation
+<!---![Fig.7 Secret generation](../files/SPPAbb7_DE.png)
+Fig.7 Secret generation -->
 
 The Azure AD setup is now complete and you can start the installation.
 
@@ -143,24 +143,24 @@ Please note that SharePointPlus is only available from version 21.0. This means 
 
 Your company administrator must grant you the following permissions in Business Central to install a KTC extension in your environment: D365 EXTENSION MGT or EXT MGT. - ADMIN. You can track your permissions via the Users item.
 
-![Fig.8 MS D365 BC - Permissions](../files/SPPAbb8_DE.png)
+<!---![Fig.8 MS D365 BC - Permissions](../files/SPPAbb8_DE.png)
 
-Fig.8 MS D365 BC - Authorizations
+Fig.8 MS D365 BC - Authorizations -->
 
 ### Installation via the Marketplace
 
 The KTC SharePointPlus app can be installed directly in Business Central via the Microsoft AppSource.
 Enter Marketplace in the search and select the Marketplace for Extensions.
 
-![Fig.9 Microsoft Marketplace for Extensions](../files/SPPAbb9_DE.png)
+<!---![Fig.9 Microsoft Marketplace for Extensions](../files/SPPAbb9_DE.png)-->
 
 Fig.9 Microsoft Marketplace for Extensions (AppSource)
 
 In the Marketplace search, type SharePointPlus and select the app shown below.
 
-![Fig.10 Marketplace SharePointPlus](../files/SPPAbb10_DE.png)
+<!---![Fig.10 Marketplace SharePointPlus](../files/SPPAbb10_DE.png)
 
-Fig.10 Marketplace SharePointPlus
+Fig.10 Marketplace SharePointPlus -_>
 
 Click on Free Trial to enter the extension installation.
 
@@ -168,16 +168,16 @@ Click on Free Trial to enter the extension installation.
 
 You can also install the app directly from the Microsoft AppSource. To do this, log in to the MS AppSource and search for the SharePointPlus extension.
 
-![Fig.11 SharePointPlus directly in MS AppSource, call via browser](../files/SPPAbb11_DE.png)
+<!---![Fig.11 SharePointPlus directly in MS AppSource, call via browser](../files/SPPAbb11_DE.png)
 
-Fig.11 SharePointPlus directly in MS AppSource, call via browser
+Fig.11 SharePointPlus directly in MS AppSource, call via browser-->
 
 Also in this overview you can add the application to your Business Central environment by clicking the Free trial button.
 After clicking the Free trial button, you will be redirected to your Dynamics 365 Business Central. A window will appear where you can select in which environment you want to install the extension.
 
-![Fig.12 Dynamics 365 Business Central - Selecting the environment](../files/SPPAbb12_DE.png)
+<!---![Fig.12 Dynamics 365 Business Central - Selecting the environment](../files/SPPAbb12_DE.png) -->
 
-Fig.12 Dynamics 365 Business Central - Selecting the environment
+<!---Fig.12 Dynamics 365 Business Central - Selecting the environment -->
 
 By clicking Install, you will be redirected to the extension installation.
 
@@ -186,7 +186,7 @@ By clicking Install, you will be redirected to the extension installation.
 In the extension installation, you can choose from the different languages of the SharePointPlus extension. The supported languages are: English, German, Italian, French, Dutch, Spanish, Polish and Portuguese.
 If your BC is set in a language that is not supported by SharePointPlus, the extension will be installed for you in English by default.
 
-![Fig.13 Extension installation: language selection and installation](../files/SPPAbb13_DE.png) Fig.13 Extension installation: language selection and installation
+<!---![Fig.13 Extension installation: language selection and installation](../files/SPPAbb13_DE.png) Fig.13 Extension installation: language selection and installation -->
 
 Clicking Install will install the app in your environment. The installation of the app may take a few minutes. Once the extension has been successfully installed, you will see a message. Clicking OK will take you back to the start screen.
 
@@ -195,11 +195,11 @@ Clicking Install will install the app in your environment. The installation of t
 To see the successful installation or the installation progress of extensions, enter Extension Management in the search and go to the corresponding menu item.
 Via the item Manage you can now get to the view of the installation status.
 
-![Fig.14 Checking the installation status](../files/SPPAbb14_DE.png) Fig.14 Checking the installation status
+<!---![Fig.14 Checking the installation status](../files/SPPAbb14_DE.png) Fig.14 Checking the installation status
 
 An extension is completely installed and ready for use when the status is completed.
 
-![Fig.15 Installation status: completed](../files/SPPAbb15_DE.png) Fig.15 Installation status: completed
+![Fig.15 Installation status: completed](../files/SPPAbb15_DE.png) Fig.15 Installation status: completed -->
 
 ### Accessing the KTC License Management App
 
@@ -208,32 +208,32 @@ If you do not already have the KTC License Management App, it will be installed 
 <span style="color:blue">Important:</span> To access the KTC License Management app, you need SUPER or SPP LIC LICENCE USER KTC rights.
 To open the license management, enter "KTC Liz" in the search and select the KTC License Management app.
 
-![Fig.16 Opening the KTC License Management App](../files/SPPAbb16_DE.png) Fig.16 Opening the KTC License Management App
+<!---![Fig.16 Opening the KTC License Management App](../files/SPPAbb16_DE.png) Fig.16 Opening the KTC License Management App-->
 
 ### Initial Setup of the License Management App (New Customers)
 
 To use SharePointPlus as a new customer of our programs, please open KTC License Management first. The program is automatically installed as soon as you have obtained SharePointPlus from the AppSource. To do this, enter License in the search mask and select the KTC License Management administration program.
 
-![Fig.17 Calling the license management](../files/SPPAbb17_DE.png) Fig.17 Calling the license management
+<!---![Fig.17 Calling the license management](../files/SPPAbb17_DE.png) Fig.17 Calling the license management -->
 
 At the initial call of the KTC License Management App your Tennant ID is not yet set. This will be determined and set automatically in the next step.
 
-![Fig.18 Setting up the KTC License Management Extension ](../files/SPPAbb18_DE.png) Fig.18 Setting up the KTC License Management Extension
+<!---![Fig.18 Setting up the KTC License Management Extension ](../files/SPPAbb18_DE.png) Fig.18 Setting up the KTC License Management Extension -->
 
 Start the setup wizard and please enter your company name and email address. All extensions of the KTC will be assigned to this company name and email address.
 <span style="color:blue">Warning:</span> You will need this e-mail address to recover the access data. For billing purposes, another e-mail address can be stored later.
 Please read the license agreement and confirm that you have read and accepted it.
 
-![Fig.19 The KTC License Setup Wizard](../files/SPPAbb19_DE.png)
+<!---![Fig.19 The KTC License Setup Wizard](../files/SPPAbb19_DE.png)
 
-Fig.19 The KTC License Setup Wizard
+Fig.19 The KTC License Setup Wizard -->
 
 Then confirm further. We will now generate a password for you, which you can use to log in to the license management. Please save this password separately. KTC does not save your passwords.
 <span style="color:blue">Warning:</span> Please save your login information separately. If you forget or lose your password, a new one will be sent to the email provided. The License Management application does not secure your information.
 
-![Fig.20 KTC License Management Password (License Key) ](../files/SPPAbb20_DE.png)
+<!---![Fig.20 KTC License Management Password (License Key) ](../files/SPPAbb20_DE.png)
 
-Fig.20 KTC License Management Password (License Key)
+Fig.20 KTC License Management Password (License Key) -->
 
 Click OK to save the information. In the next window, click Done to complete the setup. The SharePointPlus extension now automatically appears in the overview of applications licensed via KTC. <span style="color:blue">Note:</span> For security reasons, we do not save your password. Please save your password separately. You will need your password if you want to install the License Manager in additional environments such as sandboxes (e.g. multiple installations in different tennants with the same tennant ID). Forgotten passwords are always replaced by new passwords by the system.
 
@@ -242,14 +242,14 @@ Click OK to save the information. In the next window, click Done to complete the
 Since you have already installed a KTC Extension, you are already registered for the KTC License Management App.  Accordingly, you already have an account.
 To complete the installation of the SharePointPlus Extension, open the setup wizard of the KTC License Management App (e.g. via Search -> KTC License Management).
 
-![Fig.21 repeated setup of the KTC License Management via the setup wizard](../files/SPPAbb21_DE.png)
-Fig.21 Repeated setup of KTC License Management using the setup wizard
+<!---![Fig.21 repeated setup of the KTC License Management via the setup wizard](../files/SPPAbb21_DE.png)
+Fig.21 Repeated setup of KTC License Management using the setup wizard -->
 
 After opening the setup wizard, please enter your existing credentials to install the new extension on your tenant. Your tenant ID will be automatically filled in for you, so all you need to do is fill in your email and password. If you have forgotten your password, you can request a new one via "Forgot your password?" (cf. Password at KTC License Management App ).
 
-![Fig.22 repeated setup of the KTC License Management App](../files/SPPAbb22_DE.png)
+<!---![Fig.22 repeated setup of the KTC License Management App](../files/SPPAbb22_DE.png)
 
-Fig.22 Repeated setup of the KTC License Management App
+Fig.22 Repeated setup of the KTC License Management App -->
 
 After that, please go to Next. The setup of the KTC License Management App is now complete. All valid and available KTC licenses are automatically imported from the KTC license server.
 The SharePointPlus App is now installed and appears in your license overview.
@@ -258,7 +258,7 @@ The SharePointPlus App is now installed and appears in your license overview.
 
 To see the installation progress of extensions, type extension management in the search and select the extension to watch. (e.g. SharePointPlus).
 
-![Fig.23 Checking the deployment status](../files/SPPAbb23_DE.png) Fig.23 Checking the deployment status
+<!---![Fig.23 Checking the deployment status](../files/SPPAbb23_DE.png) Fig.23 Checking the deployment status -->
 
 An extension is fully installed and ready to use when the status is completed.
 
@@ -266,25 +266,25 @@ An extension is fully installed and ready to use when the status is completed.
 
 Using the Forgot password? you can have a new password (= license key) generated. A new tab will open where you enter the email address linked to the license and click Submit.
 
-![Fig.24 reset password (license key)](../files/SPPAbb24_DE.png)
+<!---![Fig.24 reset password (license key)](../files/SPPAbb24_DE.png)
 
- Fig.24 Reset password (license key)
+ Fig.24 Reset password (license key) -->
 
 A link will be sent to this e-mail address. Click on the link to get the new password. Please save it separately. The old password will lose its validity.
 
-![Fig.25 New password (license key) received](../files/SPPAbb25_DE.png)
+<!---![Fig.25 New password (license key) received](../files/SPPAbb25_DE.png)
 
-Fig.25 New password (license key) received
+Fig.25 New password (license key) received -->
 
 ### Update the application
 
 The application is updated via the Microsoft Dynamics 365 Business Central Admin Center. The KTC License Management App additionally shows you if new versions of the KTC extensions are available.
 
-![Fig.26 Open the Microsoft Dynamics 365 Business Central Admin Portal](../files/SPPAbb26_DE.png) Fig.26 Open the Microsoft Dynamics 365 Business Central Admin Portal
+<!---![Fig.26 Open the Microsoft Dynamics 365 Business Central Admin Portal](../files/SPPAbb26_DE.png) Fig.26 Open the Microsoft Dynamics 365 Business Central Admin Portal -->
 
 To open your app overview, go to Environments -> manage apps for a list of installed apps. In this list you will see, among other things, the installed version and the information whether "your" version is also the current one (cf. Fig.23).
 
-![Fig.27 Selection of the environment in the Dynamics 365 Business Central Admin Center](../files/SPPAbb27_DE.png) Fig.27 Selection of the environment in the Dynamics 365 Business Central Admin Center
+<!---![Fig.27 Selection of the environment in the Dynamics 365 Business Central Admin Center](../files/SPPAbb27_DE.png) Fig.27 Selection of the environment in the Dynamics 365 Business Central Admin Center -->
 
 If necessary, you can update our application to the latest version here. To do this, you must first select the extension that you want to update.
 To do this, go to Apps -> Manage Apps -> Update. The KTC License Management and SharePointPlus applications will now be updated to the latest version. Once the update is complete, you can exit the Admin Center and continue working with the applications in your Business Central environment.
@@ -295,11 +295,11 @@ In the Business Central activity summary search, type extension and select exten
 Search for the app you want to delete and go to the administration via the three dots. Select the uninstall menu item.
 Alternatively, you can also select the app and select the Uninstall item via the Manage menu item.
 
-![Fig.28 Extension management: Uninstallation](../files/SPPAbb28_DE.png) Fig.28 Extension management: Uninstallation
+<!---![Fig.28 Extension management: Uninstallation](../files/SPPAbb28_DE.png) Fig.28 Extension management: Uninstallation -->
 
 In the next window you have the choice whether you want to uninstall the application only or whether you want to delete the included data as well. If you only want to uninstall the app, leave the Delete extension data button untouched. If you want to delete all data, click the Delete extension data button.
 
-![Fig.29 Delete extension data](../files/SPPAbb29_DE.png) Fig.29 Delete extension data
+<!---![Fig.29 Delete extension data](../files/SPPAbb29_DE.png) Fig.29 Delete extension data -->
 
 You can uninstall the app after your selection. Now you have to wait for a few seconds to minutes. The application will be removed from your system and listing. After successful uninstallation you will see a corresponding window.
 <span style="color:blue">Hinweis:</span> If KTC License Management is uninstalled, the use of the SharePointPlus extension as well as other of our products is no longer possible.
@@ -321,17 +321,17 @@ In order to use the SharePointPlus App, you will need the SPP LIC User KTC.
 
 You can activate or deactivate the SharePointPlus App for each client individually. To activate the SharePointPlus App, look for the "SharePointPlus Setup" setup page in the current client.
 
-![Fig.30 Activate and/or configure SharePointPlus](../files/SPPAbb30_DE.png) Fig.30 Activate and/or configure SharePointPlus
+<!---![Fig.30 Activate and/or configure SharePointPlus](../files/SPPAbb30_DE.png) Fig.30 Activate and/or configure SharePointPlus -->
 
 Please enable SharePoint Plus by activating the switch.
 
-![Fig.31 Activate SharePointPlus in active client ](../files/SPPAbb31_DE.png) Fig.31 Activate SharePointPlus in active client
+<!---![Fig.31 Activate SharePointPlus in active client ](../files/SPPAbb31_DE.png) Fig.31 Activate SharePointPlus in active client -->
 
 ## Basics
 
 The basic idea of the SharePointPlus app is the automated upload of documents generated in Microsoft Dynamics 365 Business Central. These documents are enriched with the additional information (metadata) specified in Business Central. The following additional information is currently transferred to Microsoft SharePoint.
 
-Fig.32 SharePointPlus in use ](../files/SPPAbb32_DE.png) Fig.32 SharePointPlus in use
+<!---Fig.32 SharePointPlus in use ](../files/SPPAbb32_DE.png) Fig.32 SharePointPlus in use-->
 
 <span style="color:blue">Note:</span>
 
@@ -354,17 +354,17 @@ In order to use the SharePointPlus App, you will need the SPP LIC User KTC.
 
 You can activate or deactivate the SharePointPlus App for each client individually. To activate the SharePointPlus App, look for the "SharePointPlus Setup" setup page in the current client.
 
-![Fig.30 Activate and/or configure SharePointPlus](../files/SPPAbb30_DE.png) Fig.30 Activate and/or configure SharePointPlus
+<!---![Fig.30 Activate and/or configure SharePointPlus](../files/SPPAbb30_DE.png) Fig.30 Activate and/or configure SharePointPlus -->
 
 Please enable SharePoint Plus by activating the switch.
 
-![Fig.31 Activate SharePointPlus in active client ](../files/SPPAbb31_DE.png) Fig.31 Activate SharePointPlus in active client
+<!---![Fig.31 Activate SharePointPlus in active client ](../files/SPPAbb31_DE.png) Fig.31 Activate SharePointPlus in active client -->
 
 ## The Basics
 
 The basic idea of the SharePointPlus App is the automated upload of the documents generated in Microsoft Dynamics 365 Business Central. These documents are enriched with the additional information (metadata) specified in Business Central. The following additional information is currently transferred to Microsoft SharePoint.
 
-Fig.32 SharePointPlus in use ](../files/SPPAbb32_EN.png) Fig.32 SharePointPlus in use
+<!---Fig.32 SharePointPlus in use ](../files/SPPAbb32_EN.png) Fig.32 SharePointPlus in use -->
 
 <span style="color:blue">Note:</span> You need the Microsoft SharePoint licenses in addition to this app. These are not included in this app.
 
@@ -380,9 +380,9 @@ The configuration page is grouped thematically.
 
 ## General information
 
-![Fig.33 General information - connection to your SharePoint ](../files/SPPAbb33_DE.png)
+<!---![Fig.33 General information - connection to your SharePoint ](../files/SPPAbb33_DE.png) 
 
-Fig.33 General information - connection to your SharePoint
+Fig.33 General information - connection to your SharePoint-->
 
 In the figure you can see a section of the setup page. As soon as you have inserted your information, it will be stored in the system.
 Now click on Create Access Token. This will generate an Access Token that will allow you to access Microsoft SharePoint.
@@ -392,9 +392,9 @@ Now click on Create Access Token. This will generate an Access Token that will a
 
 In the following dimension screen, you can set two dimension codes that will be used to sort your files. Dimensions also allow you to have the system generate reports on the linked content. Select here from your previously entered list. Missing dimensions and their codes must be defined via the dimension management before they can be used by SharePointPlus.
 
-![Fig.34 Assignment of dimensions to be passed to SharePoint ](../files/SPPAbb34_DE.png)
+<!---![Fig.34 Assignment of dimensions to be passed to SharePoint ](../files/SPPAbb34_DE.png)
 
-Fig.34 Assignment of the dimensions to be passed to SharePoint
+Fig.34 Assignment of the dimensions to be passed to SharePoint -->
 
 Here it should be mentioned that SharePointPlus works with four central dimensions: DIM1 and DIM2, which you can specify here, and the document ID (doc.id), which make the files distinguishable from each other.
 DIM1 and DIM2 can be freely selected from all dimensions stored in Business Central.
@@ -409,7 +409,7 @@ Another dimension is the doc.id. This is always the series of numbers that disti
 
 Occasionally you will also see the DocType dimension. This is created automatically and indicates the document type. In this way, orders can be distinguished from sales in the evaluation.
 
-![Fig.35 Defining the file format for the SharePoint document](../files/SPPAbb35_DE.png) Fig.35 Defining the file format for the SharePoint document
+<!---![Fig.35 Defining the file format for the SharePoint document](../files/SPPAbb35_DE.png) Fig.35 Defining the file format for the SharePoint document -->
 
 Next, you define the standardized format that SharePointPlus should work with. First you define your desired date format, then the separator you want to use to separate the partial information from each other. For example, a file name can take the following form:
 <span style="color:blue">Beispiel:</span> YYY-DD-MM - (dash) → 2022-21-10 - UserManual.pdf
@@ -418,27 +418,27 @@ Next, you define the standardized format that SharePointPlus should work with. F
 
 This is where you set up pages and lists to be managed using SharePointPlus.
 
-![Fig.36 : Connect to available SharePoint libraries](../files/SPPAbb36_DE.png) Fig.36 : Connect to available SharePoint libraries
+<!---![Fig.36 : Connect to available SharePoint libraries](../files/SPPAbb36_DE.png) Fig.36 : Connect to available SharePoint libraries -->
 
 <span style="color:blue">Note:</span> Please note that you must first activate SharePointPlus, complete your information and create an access authorization in order to be able to edit the following items. Without a valid access authorization, the options shown below will only be partially displayed or not displayed at all, which means that SharePointPlus cannot be configured appropriately and thus can only be used to a limited extent.
 First select the page here that you want to have managed. The URL will be added automatically by the system, as it should already be stored in the corresponding file.
 This setting is urgent, otherwise you will not be able to access the functions of SharePointPlus on these pages. The pages that you can access with SharePointPlus are predefined by Business Central. You cannot add or remove anything here. If you do not want to use certain pages, do not select them here.
 The list order is where you configure the systems you want your tables and pages to be added to. You cannot upload your documents directly to the previously selected site; they must first be added to lists, which you can then manage with SharePointPlus. These lists are provided with table number, name and linked document type.
 
-![Fig.37 : Page-related definition of the SharePoint lists to be displayed ](../files/SPPAbb37_DE.png) Fig.37 : Page-related definition of the SharePoint lists to be displayed
+<!---![Fig.37 : Page-related definition of the SharePoint lists to be displayed ](../files/SPPAbb37_DE.png) Fig.37 : Page-related definition of the SharePoint lists to be displayed -->
 
 Please note that Document Type here refers to the content of the document, not the file type. Also, you can only add pages, lists and libraries already set up in SharePoint here.
 A completely missing option must be set up through SharePoint itself before SharePointPlus can access it.
 You must assign at least one library to the selected tables to be used for management.
 Specify a source and upload folder here. These help to structure and sort the documents. If you want to see these folders also in the SharePointPlus interface, click Show folders here.
 
-![Fig.38 : Add lists of the selected SharePoint library ](../files/SPPAbb38_DE.png) Fig.38 : Add lists to the selected SharePoint library
+<!---![Fig.38 : Add lists of the selected SharePoint library ](../files/SPPAbb38_DE.png) Fig.38 : Add lists to the selected SharePoint library -->
 
 With a click on Upload to SharePoint AN the documents entered here will be integrated directly into your SharePoint environment.
 
 <span style="color:blue">Note:</span> Please note that only one list can be marked with an automatic upload at a time. If you select one list here, the function will be disabled automatically for all others.
 
-![Fig.39 : Set source folder per list ](../files/SPPAbb39_DE.png) Fig.39 : Set source folder per list
+<!---![Fig.39 : Set source folder per list ](../files/SPPAbb39_DE.png) Fig.39 : Set source folder per list -->
 
 Select here one of the stored source folders, if they should be stored in the SharePointPlus interface. If you do not select anything here, only the list title and the files it contains will be displayed in SharePointPlus. Once you have set up the correct source folder, confirm your selection with OK to return to the setup.
 
@@ -446,16 +446,16 @@ Select here one of the stored source folders, if they should be stored in the Sh
 
 In the library selection you can assign filters to the contained lists via the three points -> Filter Mapping to the list contents.
 
-![Fig.40: Selection of SharePoint lists ](../files/SPPAbb40_DE.png) Fig.40 : Selection of SharePoint lists
+<!---![Fig.40: Selection of SharePoint lists ](../files/SPPAbb40_DE.png) Fig.40 : Selection of SharePoint lists -->
 
 Select a Business Central field and a SharePoint column in the overview for this purpose. The columns available for selection depend on the selected field. You can freely select the field from Business Central. You can set a filter for each list.
 The configuration of the filters is completely optional. If you do not set anything here, the SharePointPlus interface will always show you the entire list content.
 Click the arrow in the upper left corner or press Esc to return to the library selection.
 Press OK to save the settings for the current list.
 
-![Fig.41: Assigning the metadata ](../files/SPPAbb41_DE.png) Fig.41 : Assigning the metadata
+<!---![Fig.41: Assigning the metadata ](../files/SPPAbb41_DE.png) Fig.41 : Assigning the metadata
 
-![Fig.42: Adding the libraries ](../files/SPPAbb42_DE.png) Fig.42 : Adding the libraries
+![Fig.42: Adding the libraries ](../files/SPPAbb42_DE.png) Fig.42 : Adding the libraries -->
 
 Use current year creates a new folder - for sorting your documents. In this folder the documents are sorted into the correct year folder by the format given in 5.2.2. This way you can have files from different years managed without any problems.
 If you do not want the year folder to be displayed in your SharePointPlus environment, uncheck Show folder year here. If this function is deactivated, you will only see the libraries and the files they contain in the SharePointPlus interface. If you want to display the documents sorted by the dates, activate the check mark here.
@@ -468,19 +468,19 @@ All other fields are created automatically by SharePointPlus, provided that the 
 
 To use SharePointPlus you need permissions that go beyond the roles and rights of Business Central.
 
-![Fig.43: Access permissions (Access-Token) ](../files/SPPAbb43_DE.png) Fig.43 : Access permissions (Access token)
+<!---![Fig.43: Access permissions (Access-Token) ](../files/SPPAbb43_DE.png) Fig.43 : Access permissions (Access token) -->
 
 Create Access Credential creates a one-time Access Token that you can use to connect SharePointPlus to SharePoint and Business Central and share the programs. Such tokens are inherently valid only for a specific, short period of time. Therefore, if necessary, you can extend the lifetime of the credential with Update Access Credential.
 This function allows you to save the settings you have made in a file in order to share them. This makes sense if all your employees should work with the same settings in the same license and the same application structure. This way you can avoid incorrect or missing sorting due to irregular settings of individual users.
 The export saves the information in a file for download as well as for sharing, the import offers the possibility to include an already existing settings file into the SharePointPlus setup to copy settings from another version.
 
-![Fig.44: Save and load configurations ](../files/SPPAbb44_DE.png) Fig.44 : Save and load configurations
+<!---![Fig.44: Save and load configurations ](../files/SPPAbb44_DE.png) Fig.44 : Save and load configurations -->
 
 ## SharePointPlus in Business Central
 
 Via Sales -> Sales offers in Business Central you get to an overview of all your current sales offers. With SharePointPlus you can access the related documents directly in this overview.
 
-![Fig.45: SharePointPlus in the list view of sales offers ](../files/SPPAbb45_DE.png) Fig.45 : SharePointPlus in the list view of sales offers
+<!---![Fig.45: SharePointPlus in the list view of sales offers ](../files/SPPAbb45_DE.png) Fig.45 : SharePointPlus in the list view of sales offers -->
 <span style="color:blue">Important:</span> Bitte beachten Sie, dass Sie den Infoboxbereich hierfür erweitern müssen. Die SharePointPlus-Oberfläche wird nur innerhalb des Infoboxbereiches angezeigt.
 Die Dateien, die mit dem ausgewählten Kunden verknüpft sind, werden hier seitlich angezeigt. Die Dateien werden nach Ihren in der Installation definierten Einstellungen sortiert. So haben Sie alles auf einen Blick.
 Please note that you need to expand the infobox area for this. The SharePointPlus interface is displayed only inside the infobox area.
@@ -496,7 +496,7 @@ The filters set up match the field name in Business Central with the column name
 
 You can expand or collapse certain lists and folders here according to your needs, so that you can navigate the documents as easily as possible. Clicking on SharePoint Plus opens a drop-down menu that allows you to perform various actions in SharePointPlus.
 
-![Fig.46: : The SharePointPlus Menu ](../files/SPPAbb46_DE.png) Fig.46 : The SharePointPlus Menu
+<!---![Fig.46: : The SharePointPlus Menu ](../files/SPPAbb46_DE.png) Fig.46 : The SharePointPlus Menu -->
 
 With Create access authorization you can, as in the setup of the application, create a new access for the current user and update it if necessary. This may require the user to log in again.
 Using SharePoint Settings, you can access the setup page from 5.2 to make short-term changes to the settings. For example, you can add more libraries to your lists here, as well as adjust minor display settings.
@@ -508,4 +508,4 @@ If you have filters set up but you don't want to use them now, you can disable t
 Documents managed with SharePointPlus can of course also be uploaded to SharePoint in the usual way and retrieved there. SharePointPlus only takes care of the sorting and direct linking of your SharePoint documents in your listing.
 With Print in the task list above your view you can print or send the selected table somewhere. Furthermore, you can filter your selection here so that for example only the sales quotations are printed.
 
-![Fig.47: : Upload document to SharePoint by selection in print dialog ](../files/SPPAbb47_DE.png) Fig.47 : Upload document to SharePoint by selection in print dialog.
+<!---![Fig.47: : Upload document to SharePoint by selection in print dialog ](../files/SPPAbb47_DE.png) Fig.47 : Upload document to SharePoint by selection in print dialog. -->
