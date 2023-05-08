@@ -84,7 +84,9 @@ Custom number series can be assigned for all contract types and dimensions can b
 
 ### Installation
 
-Please note that ContractPlus is only available from version 21.0. This means that your environment must be updated to at least version 21.0 for ContractPlus to be operational at your site.  
+Please note that ContractPlus is only available from version 21.0. This means that your environment must be updated to at least version 21.0 for ContractPlus to be operational at your site. 
+
+![Image Installation and Coonfiguration Process](image/D365BC-KTC-APP_Installation_EN.png) Fig.2 Installation and Coonfiguration Process
 
 ### Permissions to install an extension
 
