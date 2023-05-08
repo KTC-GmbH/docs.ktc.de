@@ -84,6 +84,8 @@ Für alle Vertragsarten können eigene Nummernserien vergeben werden und über D
 
 Bitte beachten Sie, dass ContractPlus erst ab Version 21.0 verfügbar ist. Dies bedeutet, dass Ihre Umgebung mindestens auf Version 21.0 geupdatet sein muss, damit die ContractPlus bei Ihnen betriebsfähig ist.  
 
+![Image Installations- und Konfigurationsprozess](image/D365BC-KTC-APP_Installation_DE.png) Fig.2 Installations- und Konfigurationsprozess
+
 ### Berechtigungen zur Installation einer Erweiterung
 
 hr Unternehmensadministrator muss Ihnen in Business Central folgende Berechtigungen freigeben, um eine KTC-Extension in Ihrer Umgebung zu installieren: D365 EXTENSION MGT oder EXT MGT. -  ADMIN.
