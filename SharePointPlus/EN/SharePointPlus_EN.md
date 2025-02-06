@@ -114,7 +114,7 @@ on "API Permissions."
 Click on "Add Permissions" and select "Microsoft Graph."
 There, they select "Delegated Permissions" and look for "Files.ReadWrite.All." Check the box and next enter "Sites.ReadWrite.All." Put a check mark there as well. Now you need to select "Add Permissions" and check that they have been applied. By default, "User.Read" is already added. If this is not the case, add this permission.
 
-![Fig.5 API Permissions Overview](../files/SPPAbb5_DE.png) Fig.5 API Permissions Overview 
+![Fig.5 API Permissions Overview](../files/SPPAbb5a_DE.png) Fig.5 API Permissions Overview 
 
 In order for the permissions to be granted, an admin must approve them. Once this is done, the status is green and the permissions have been granted.
 
