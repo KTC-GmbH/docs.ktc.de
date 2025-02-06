@@ -114,7 +114,7 @@ auf „API-Berechtigungen“.
 Klicken Sie auf „Berechtigungen hinzufügen“ und wählen Sie „Microsoft Graph“ aus.
 Dort wählen sie „Delegierte Berechtigungen“ aus und suchen nach „Files.ReadWrite.All“. Setzen Sie den Haken und geben als nächstes „Sites.ReadWrite.All“ ein. Setzen Sie auch dort einen Haken. Nun müssen Sie Berechtigungen hinzufügen“ auswählen und kontrollieren, ob diese übernommen wurden. Standardmäßig ist „User.Read“ schon hinzugefügt. Sollte dies nicht der Fall sein, fügen Sie diese Berechtigung hinzu.
 
-![Abb.5 API Berechtigungen Übersicht](../files/SPPAbb5_DE.png) Abb.5 API Berechtigungen Übersicht 
+![Abb.5 API Berechtigungen Übersicht](../files/SPPAbb5a_DE.png) Abb.5 API Berechtigungen Übersicht 
 
 Damit die Berechtigungen erteilt werden können, muss ein Admin sie freigeben. Ist dies erfolgt, steht der Status auf grün und die Berechtigungen wurden erteilt.
 
